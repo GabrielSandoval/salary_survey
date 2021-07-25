@@ -1,0 +1,22 @@
+# Industry
+Original Cluster = 7082
+Cluster:
+    Method: 'key collision', Keying function 'fingerprint' # Reduced cluster to 5656
+    Method: 'key collision', Keying function 'ngram-fingerprint (ngram_size: 2)' # Reduced cluster to 5415
+    Method: 'key collision', Keying function 'metaphone3' # Reduced cluster to 4056
+    Method: 'key collision', Keying function 'Daitch-Mokotoff' # Reduced cluster to 2743
+
+# Job_Title
+Original Cluster = 14683
+Cluster:
+    Method: 'key collision', Keying function 'fingerprint' # Reduced cluster to 12636
+    Method: 'key collision', Keying function 'ngram-fingerprint (ngram_size: 2)' # Reduced cluster to 12523
+    Method: 'key collision', Keying function 'metaphone3' # Reduced cluster to 8686
+
+# Location
+Original Cluster = 10185
+Cluster:
+    Method: 'key collision', Keying function 'fingerprint' # Reduced cluster to 7133
+    Method: 'key collision', Keying function 'ngram-fingerprint (ngram_size: 2)' # Reduced cluster to 6072
+    Method: 'key collision', Keying function 'metaphone3' # Reduced cluster to 4695
+    Method: 'key collision', Keying function 'Daitch-Mokotoff' # Reduced cluster to 3353

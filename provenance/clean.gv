@@ -1,0 +1,41 @@
+digraph Workflow {
+rankdir=LR
+fontname=Courier; fontsize=18; labelloc=t
+label=clean_salary_data
+subgraph cluster_workflow_box_outer { label=""; color=black; penwidth=2
+subgraph cluster_workflow_box_inner { label=""; color=white
+node[shape=box style=filled fillcolor="#CCFFCC" peripheries=1 fontname=Courier]
+read_csv_file
+rename_columns
+drop_records_with_null_values
+extract_floor_age
+extract_floor_experience
+filter_out_invalid_records_based_on_age_and_experience
+remove_records_with_undetermined_currency
+convert_salaries_to_usd
+export_clean_data
+edge[fontname=Helvetica]
+read_csv_file -> rename_columns [label=raw_data]
+rename_columns -> drop_records_with_null_values [label=renamed_data]
+drop_records_with_null_values -> extract_floor_age [label=not_null_data]
+extract_floor_age -> extract_floor_experience [label=not_null_data_with_floor_age]
+extract_floor_experience -> filter_out_invalid_records_based_on_age_and_experience [label=not_null_data_with_floor_age_and_experience]
+filter_out_invalid_records_based_on_age_and_experience -> remove_records_with_undetermined_currency [label=filtered_data]
+remove_records_with_undetermined_currency -> convert_salaries_to_usd [label=filtered_data_without_undetermined_currency]
+convert_salaries_to_usd -> export_clean_data [label=usd_salaries_data]
+}}
+subgraph cluster_input_ports_group_outer { label=""; color=white
+subgraph cluster_input_ports_group_inner { label=""; color=white
+node[shape=circle style=filled fillcolor="#FFFFFF" peripheries=1 fontname=Courier width=0.2]
+input_csv_file_input_port [label=""]
+}}
+subgraph cluster_output_ports_group_outer { label=""; color=white
+subgraph cluster_output_ports_group_inner { label=""; color=white
+node[shape=circle style=filled fillcolor="#FFFFFF" peripheries=1 fontname=Courier width=0.2]
+cleaned_data_output_port [label=""]
+}}
+edge[fontname=Helvetica]
+input_csv_file_input_port -> read_csv_file [label=input_csv_file]
+edge[fontname=Helvetica]
+export_clean_data -> cleaned_data_output_port [label=cleaned_data]
+}
