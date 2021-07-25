@@ -29,3 +29,10 @@ Data Cleaning project in Python involving OpenRefine and YesWorkflow for Data Pr
     ```
     $ bash bin/provenance.sh
     ```
+### Provenance Graphs
+
+1. Combined View [\[view\]](https://github.com/gabrielsandoval/salary_survey/blob/master/provenance/clean_salaries_combined_view.png)
+
+2. Data View [\[view\]](https://github.com/gabrielsandoval/salary_survey/blob/master/provenance/clean_salaries_data_view.png)
+
+3. Process View [\[view\]](https://github.com/gabrielsandoval/salary_survey/blob/master/provenance/clean_salaries_process_view.png)
