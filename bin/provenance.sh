@@ -24,13 +24,13 @@ java -jar ./bin/yesworkflow-0.2.0-jar-with-dependencies.jar \
   -config graph.view=data \
   -config graph.workflowbox=show \
   -config graph.layout=TB \
-  ./clean.py | dot -Tpng -o ./provenance/clean_salaries_process_view.png && \
-  open ./provenance/clean_salaries_process_view.png
+  ./clean.py | dot -Tpng -o ./provenance/clean_salaries_data_view.png && \
+  open ./provenance/clean_salaries_data_view.png
 
 java -jar ./bin/yesworkflow-0.2.0-jar-with-dependencies.jar \
   graph \
   -config graph.view=process \
   -config graph.workflowbox=show \
   -config graph.layout=TB \
-  ./clean.py | dot -Tpng -o ./provenance/clean_salaries_data_view.png && \
-  open ./provenance/clean_salaries_data_view.png
+  ./clean.py | dot -Tpng -o ./provenance/clean_salaries_process_view.png && \
+  open ./provenance/clean_salaries_process_view.png

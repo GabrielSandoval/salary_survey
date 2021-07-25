@@ -5,11 +5,11 @@ INPUT_CSV_FILE = './data/refined_data.csv' # From OpenRefine
 OUTPUT_CSV_FILE = './data/cleaned_data.csv'
 
 # @BEGIN clean_salary_data
-# @IN input_csv_file @URI file:refined_data.csv
-# @OUT cleaned_data @URI file:cleaned_data.csv
+# @IN input_csv_file @URI file:./data/refined_data.csv
+# @OUT cleaned_data @URI file:./data/cleaned_data.csv
 
 # @BEGIN read_csv_file
-# @IN input_csv_file @URI file:{file_path}
+# @IN input_csv_file @URI file:./data/refined_data.csv
 # @OUT raw_data
 print("\n\nStep 1: Reading input CSV")
 print("-------------------------------------------")
@@ -111,7 +111,7 @@ filtered_data["Salary_USD"] = filtered_data.apply(lambda row: usd_conversion_rat
 
 # @BEGIN export_clean_data
 # @IN usd_salaries_data
-# @OUT cleaned_data @URI file:cleaned_data.csv
+# @OUT cleaned_data @URI file:./data/cleaned_data.csv
 print("\n\nStep 7: Exporting Cleaned Data")
 print("-------------------------------------------")
 cleaned_data = filtered_data[[
