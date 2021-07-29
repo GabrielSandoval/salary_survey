@@ -4,7 +4,7 @@ import re
 INPUT_CSV_FILE = './data/refined_data.csv' # From OpenRefine
 OUTPUT_CSV_FILE = './data/cleaned_data.csv'
 
-# @BEGIN clean_salary_data
+# @BEGIN Python_FixSemanticErrorsAndDropInvalidRecords
 # @IN input_csv_file @URI file:./data/refined_data.csv
 # @OUT cleaned_data @URI file:./data/cleaned_data.csv
 
@@ -132,4 +132,4 @@ cleaned_data.to_csv(OUTPUT_CSV_FILE, index=False)
 # @END convert_salaries_to_usd
 
 print("\n[DONE] Data exported to {}".format(OUTPUT_CSV_FILE))
-# @END clean_salary_data
+# @END Python_FixSemanticErrorsAndDropInvalidRecords

@@ -29,10 +29,33 @@ Data Cleaning project in Python involving OpenRefine and YesWorkflow for Data Pr
     ```
     $ bash bin/provenance.sh
     ```
+
 ### Provenance Graphs
 
-1. Combined View ![\[view\]](../provenance/clean_salaries_combined_view.png)
+#### High-level Workflow
 
-2. Data View ![\[view\]](../provenance/clean_salaries_data_view.png)
+1. Combined View
 
-3. Process View ![\[view\]](../provenance/clean_salaries_process_view.png)
+  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_combined_view.png)
+
+2. Data View
+
+  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_data_view.png)
+
+3. Process View
+
+  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_process_view.png)
+
+#### Salary Cleaning Workflow
+
+1. Combined View
+
+  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_combined_view.png)
+
+2. Data View
+
+  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_data_view.png)
+
+3. Process View
+
+  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_process_view.png)
