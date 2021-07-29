@@ -1,0 +1,3278 @@
+average_salary,Location
+7.53851923083077e+19,"Columbus, OH, USA"
+1.04000400000056e+18,"Louisville, KY, USA"
+2.14579963884172e+16,London
+3.34047298926433e+15,"Mountain View, CA, USA"
+121646114586337.0,"Portland, Oregon, USA"
+69000100193525.0,"Sunnyvale, CA, USA"
+66348112149542.1,"Washington, DC"
+57534497834363.1,"Dallas, TX, USA"
+25252292396300.2,"Brooklyn, New York"
+16000180088150.0,Saline / Michigan / USA
+11372578506517.1,"Columbus, OH"
+5243909911152.93,"San Jose, CA"
+3381055475005.78,"San Francisco, CA, USA"
+2394913868544.23,"Boston, MA"
+1857152932571.43,Vancouver
+1829132961835.03,"New York, NY, USA"
+1288893459762.64,"Toronto, Ontario, Canada"
+1228573636857.14,"Bridgeport, CT"
+1023756645017.44,"Virginia Beach, VA"
+806503197550.0,"Outside of Philadelphia, PA, USA"
+763001152675.0,"Basel, Switzerland"
+600000066907.2,"Berrien Springs, MI, USA"
+520120060000.0,Tennessee Knox county
+520009054130.0,"Frederick, MD, USA"
+390239956517.598,"New York, NY"
+209152331571.021,"Chicago, IL, USA"
+101129989480.5,Chicago
+96492049573.3158,"Jacksonville, FL, USA"
+47475094358.1017,"Seattle, WA"
+46642694578.1274,New York City
+45833894150.825,Texas
+32066738200.0,"Australia, perth, w.a"
+15384724426.8462,Raleigh/North Carolina/USA
+15000396000.0,Palm Beach Fl
+15000317153.0,"Hamilton, Ontario, Canada"
+14522028770.0,"Leeds, England"
+13542143551.7292,Illinois
+11502040000.0,"Geneseo, New York, US"
+6000016000.0,Toronto - remote
+5500061640.0,Greencastle PA USA
+5440271774.6229,"Seattle, WA, USA"
+4720035400.0,Bolzano/Province of Bolzano/Italy
+4125057500.0,DC metro area
+4000090600.0,"Newton, MA"
+3171340682.38554,"Seattle, Washington, USA"
+3090386131.14,"Rochester, NY USA"
+2733410333.33333,"Montclair, NJ, USA"
+2619979575.19048,"Princeton, NJ, USA"
+2607876896.66667,Luxembourg
+2373187980.52632,"Orange County, CA"
+2360012980.0,Dresden Germany
+2337197649.87817,"Cambridge, MA, USA"
+2100087540.0,"Remote Worker (live in Fresno, CA - Home Office is Phoenix AZ))"
+2098276005.5035,USA
+2000051000.0,Midwestern US
+1919288314.94949,Chicago/Illinois/USA
+1842974171.42857,"Bradenton, FL"
+1649115078.56383,"San Jose, CA, USA"
+1530732989.43098,New York
+1500084150.0,"Bridgewater, NJ USA"
+1456060000.0,"Cherokee, NC, US"
+1416786106.66667,"Newport Beach, CA, USA"
+1396172778.03922,"Milwaukee, WI"
+1162767371.37411,"Los Angeles, CA, USA"
+1073246130.71429,Northern California
+1046785917.33333,"Irvine, California"
+1008650014.91597,"Kansas City, MO, USA"
+960102897.6,Nevada
+866732668.888889,Mississippi
+800067402.4,Northeastern US
+684513975.115016,"Chicago, IL"
+641896927.467568,"Houston, TX, USA"
+568512447.368421,"Boca Raton, Florida, USA"
+560087560.0,"Waterloo, Ontario, Canada"
+500078996.896552,"Fort Lauderdale, Florida, USA"
+400889805.94,"Adelaide, South Australia, Australia"
+398328755.9,"Paris, France"
+370080348.25,"Anchorage, Alaska, USA"
+327206432.041667,"Texas, USA"
+291783066.666667,"Manhattan, NY, US"
+250475000.0,Myrtle Beach/SC/USA
+207886281.232068,"Atlanta, GA, USA"
+190086666.666667,Alaska USA
+161599851.109091,"Dublin, Ireland"
+160000000.0,"Non-Portland, Oregon, USA"
+130567039.347826,Indiana
+123300738.184615,Philadelphia
+115600216.794231,"Boston, MA, USA"
+114071500.0,Boston area
+88382018.0,"Boerne, Texas USA"
+75679066.8679245,"Denver, CO, USA"
+59248125.0,"Midwest, USA"
+58524922.9032258,South Carolina
+53031486.9736842,Michigan
+48000000.0,"Large but not the large city, Ontario"
+47116791.3535354,United States
+43245706.4122917,Australia
+33696000.0,"Davis, CA, USA"
+28190871.152,"Sacramento, CA, USA"
+20000000.0,"Roseburg, OR, USA"
+20000000.0,Mount pleasant sc usa
+18656860.512426,"Vancouver, BC, Canada"
+17798000.0,"Manassas, VA, USA"
+16915250.0,"Peoria, IL, USA"
+15963678.9290323,"Cleveland, OH, USA"
+15200000.0,A city in the East bay region/California/USA
+15069821.0,"Ottawa, Canada"
+14400000.0,Middle Tennessee
+13850000.0,"Seoul, South Korea"
+13047333.3333333,"Augusta, Georgia"
+13017625.0,"Lisle, IL"
+11700000.0,Lake Buena Vista/FL/USA
+11200000.0,"Hood River, OR"
+11150000.0,"Buffalo Grove, IL"
+10794791.8913043,"Cincinnati, OH"
+10703870.0,"Newtown, PA, USA"
+10500000.0,Northern KY
+10200000.0,"Jurupa Valley, CA"
+10129180.0,"Fairfax Station, VA"
+10100000.0,Scarsdale/NY/USA
+10051250.0,"Reno, Nevada, USA"
+10000000.0,your face
+9239700.0,"Leavenworth, KS"
+9233083.33333333,SLC Utah USA
+9000000.0,Bonduel WI. USA
+8911250.0,Windsor CO
+8629218.0,Pekin / Illinois / USA
+8387700.0,"China Lake, CA"
+8200000.0,Memphis Shelby Tennessee
+8112750.0,New Jersey/United States
+8088593.96551724,"St. Paul, MN, USA"
+8022500.0,"Brookfield, CT, USA"
+7848654.21052632,"Brisbane, Queensland, Australia"
+7575441.17647059,"Boise, ID, USA"
+7500000.0,"Middle island, new york"
+7175000.0,Middle East
+7124000.0,ESSEX Chelmsford
+7011621.0,"Rancho Palos Verdes, CA, USA"
+6715000.0,"Solomons, MD"
+6638960.0,"Redmond, WA USA"
+6587900.0,"Roseville, MN, USA"
+6500000.0,"Topeka, KS Shawnee"
+6448000.0,"Hollywood, MD, USA"
+6440000.0,muskoka-georgian bay/ontario/canada
+6200000.0,Mishawaka/Indiana/United States
+6197500.0,"Portsmouth, Ohio USA"
+6130020.0,"The Pas, MB Canada"
+6030000.0,Belleville NJ
+5943600.0,"Battle Ground, WA, USA"
+5930000.0,Merrimack NH USA
+5781000.0,"Visalia, CA"
+5700000.0,"Montague, NJ, US"
+5500000.0,Pearland TX USA
+5418400.0,"Branford, CT, United States"
+5247212.9380531,"Pittsburgh, PA, USA"
+5200000.0,"Scotts Valley, California USA"
+5102400.0,"Greenwich, CT"
+5081200.0,"Fort Morgan, CO, USA"
+5060000.0,Villa Rica Ga USA
+5000000.0,"Rockwall, Texas, USA"
+5000000.0,Jefferson WI USA
+4973500.0,"Decatur, GA, United States"
+4900000.0,"Bethlehem, New Hampshire"
+4873821.2,Central California USA
+4795000.0,"Devon, United Kingdom"
+4714100.0,"Foster City , California"
+4704046.25581395,"Columbus, Ohio, USA"
+4669988.0,Albany/NY/United States
+4504500.0,"Bettendorf, IA, USA"
+4500000.0,Seattle area
+4500000.0,"Purchase, New York, Westchester County"
+4444800.0,Thunder Bay ON CANADA
+4303650.0,(near) Harrisonburg/Virginia/USA
+4254535.0,"Hertfordshire, UK"
+4110000.0,"Lincoln, Lincolnshire, UK"
+4060000.0,"Mechanicsburg, PA, USA"
+3881981.66666667,Carson City NV
+3836000.0,"Liverpool, UK"
+3835402.0,Portage MI USA
+3748666.66666667,Lake Forest IL USA
+3705000.0,"Craig, AK USA"
+3556666.66666667,Texarkana Texas
+3551666.66666667,"Paramus, NJ"
+3516298.47916667,"Albany, NY, USA"
+3500000.0,Fairless Hills PA USA
+3400000.0,"Yorba Linda, CA"
+3288000.0,Warwickshire
+3071000.0,"Ada, Oklahoma, USA"
+3014000.0,"Worcestershire, UK"
+3000000.0,"Worcestet, MA US"
+2808500.0,"Norwich, Norfolk, UK"
+2794683.2,"Marlborough, MA"
+2735000.0,Denver Metro
+2719200.0,"Santa Rosa Beach, Florida"
+2716666.66666667,Taipei/Taiwan
+2686600.0,"Hampton Roads, VA, USA"
+2598857.66666667,"St PETERSBURG, Fl USA"
+2545958.0,"SE Georgia, USA"
+2415000.0,"Erlanger, KY"
+2399932.5,"Edmonds, WA"
+2397122.1754386,"NYC, NY, USA"
+2369330.54545455,"Reston, VA, USA"
+2309862.5,"Rockville, Maryland"
+2297746.5,"Saint Cloud, MN, USA"
+2265500.0,"Mt Ephraim, NJ"
+2230884.0,"Manhattan Beach, CA, US"
+2220770.0,"Gloucestershire, England, UK"
+2121000.0,"San Leandro, CA, USA"
+2118493.33333333,"Brussels, Belgium"
+2100463.25,"Garden City, KS, USA"
+2095000.0,Lake George NY USA
+2082400.0,"Cardiff, United Kingdom"
+2053500.0,Palo Alto California USA
+2050000.0,Williamstown MA
+1995333.33333333,"Dallastown, PA, USA"
+1940800.0,"Miramar, FL"
+1920333.33333333,"Northville, MI"
+1896960.0,Comox/BC/Canada
+1873027.75,"Huntington Beach, CA"
+1862518.58823529,"Omaha, NE"
+1849200.0,"Oregon City, Oregon"
+1834785.71428571,"Boise, ID"
+1820832.26666667,"Kitchener, Ontario"
+1805671.42857143,"Beaumont, TX, USA"
+1800333.33333333,"Monterey, CA"
+1737563.93333333,"Olympia, WA USA"
+1726050.0,"Palmerston North, New Zealand"
+1724700.0,Thousand Oaks
+1724475.0,"NYC, NY"
+1707134.4,"Anaheim, CA, USA"
+1703695.35714286,"Fairbanks, Alaska, USA"
+1703176.25,EAST TEXAS
+1700333.33333333,"Winchester, Virginia"
+1700067.72222222,"Cupertino, CA, USA"
+1685000.0,"Long Beach, CA, USA"
+1677048.0,North East Ohio
+1617741.93548387,Atlanta
+1574460.23076923,Ashburn / VA / Usa
+1562734.18181818,Florida
+1557864.5,"Aberdeen, Scotland"
+1556458.42857143,"Erie, PA, USA"
+1556381.96078431,CA
+1540300.0,Ogden/Utah/USA
+1454940.0,Leicester United Kingdom
+1444000.0,Prairieville Louisiana USA
+1426748.0,"Metro Detroit, MI"
+1423518.8313253,"San Antonio, TX, USA"
+1364602.5,"Middletown NY, USA"
+1357750.0,Las Cruces New Mexico
+1324779.9,"Baton Rouge, LA, USA"
+1309871.42857143,"Honolulu, HI"
+1284020.0,"Jefferson City, MO USA"
+1272540.0,Silicon Valley
+1266267.0,"Pendleton, Oregon, USA"
+1224964.185,Issaquah/WA/USA
+1212875.0,"Auburn Hills, MI"
+1187790.0,"Norwich, UK"
+1159457.28888889,NYC
+1127824.64516129,Dallas
+1126770.44444444,"College Park, MD"
+1114610.94444444,"Louisville, Kentucky, USA"
+1097485.1,"Provo, Utah, USA"
+1067395.33415233,"Minneapolis, MN, USA"
+1064863.63636364,Alaska
+1054217.6,Buellton/CA/USA
+1041186.66666667,"Rockland, Maine, USA"
+1038507.16666667,"Ohio, United States"
+997500.0,"Buffalo, New York USA"
+996904.0,"Reno, NV"
+990178.0,"Dillon, Montana"
+959600.0,Dayton Ohio
+955876.695652174,"Providence, RI, USA"
+920000.0,"Cincinanti, OH USA"
+910003.0,Northeast
+906024.461538462,"La Crosse, WI, USA"
+900937.819230769,"London, England"
+898175.0,"Kansas City, KS"
+896982.571428571,Arizona/USA
+888133.142857143,"Falls Church, VA"
+887500.0,"Illinois, United States"
+876280.0,Orem/Utah/USA
+864636.0,"Surrey, UK"
+844850.757575758,"Las Vegas, NV USA"
+838428.571428571,Nashville
+832333.333333333,"Ft Washington, Pa, USA"
+831381.0,"Anchorage, AK, USA"
+822702.6,Glenwood Springs/CO/USA
+808245.454545455,"Tampa, FL, USA"
+795576.923076923,"Tacoma, WA"
+783500.0,"Dayton, OH, USA"
+780249.6,Terrace BC Canada
+776821.235294118,"Colorado, USA"
+773968.0,"Cherry Hill, New Jersey, USA"
+754597.611764706,"Edinburgh, Scotland"
+750243.777777778,"Northampton, MA"
+749426.071428571,"Winston-Salem, NC, USA"
+718537.6,"Brighton, UK"
+710829.333333333,Grand Forks ND
+684542.214285714,Connecticut
+662298.004,"Perth, Western Australia"
+662200.166666667,"Eugene, OR, USA"
+660750.0,"Ft Lauderdale, FL USA"
+658970.0,Montana
+657044.428571429,North Carolina
+656435.416666667,Tulsa/Oklahoma/USA
+653490.674347826,"Manchester, UK"
+649600.441176471,Maine
+637764.885714286,San Diego
+634012.142857143,"Plano, TX, USA"
+629217.0,"West Lafayette, Indiana, United States"
+622858.34939759,"Wilmington, DE, USA"
+616500.0,London/London/UK
+615938.259259259,"Tallahassee, FL"
+612963.5,Sarasota FL
+611741.571428571,Greater Boston
+607428.571428571,"Lawrence, KS"
+603580.764705882,"Tulsa, OK, USA"
+602700.419354839,Upstate NY
+602458.1625,"PA, USA"
+602401.533333333,"Edmonton, Alberta, Canada"
+597570.0,"Irvine, CA, USA"
+589219.333333333,"Durham, North Carolina, USA"
+575983.306666667,"Phoenix, AZ, USA"
+571731.583333333,10010
+571207.227272727,"Memphis, TN USA"
+562814.714285714,"London, UK"
+561623.0,"Ft Worth, TX, USA"
+555000.0,"Tucker, Georgia, USA"
+549575.666666667,"Appleton, WI USA"
+547141.823529412,"Montreal, Quebec, Canada"
+532333.333333333,"Balmain, New South Wales, Australia"
+529772.274545455,"Leeds, UK"
+510464.968333333,"Sheffield, UK"
+508759.574074074,"Fort Worth, TX USA"
+504103.688,South Australia
+503260.153846154,Northern Virginia
+502681.230769231,"Overland Park, KS, USA"
+500825.19369863,United Kingdom
+500000.0,Ashburnham / MA / USA
+499107.216216216,"Lexington, KY, USA"
+491985.495,"Bristol, UK"
+490018.819672131,California
+487500.0,Los Gatos/CA/USA
+484556.555555556,"Chandler, AZ"
+481731.818181818,"Salem, Oregon, USA"
+481255.948571429,South East UK
+477921.230769231,"Reno, NV, USA"
+475316.475935829,"Nashville, TN, USA"
+473218.181818182,"Boise, Idaho, USA"
+471485.435897436,"St. Louis, Missouri"
+466998.99270073,"Salt Lake City, Utah, USA"
+455788.0,Honolulu/Hawaii/USA
+452112.466666667,"Sioux Falls, SD, USA"
+445214.545454545,"Dayton, OH"
+441856.428571429,Tucson/Arizona/USA
+436805.416666667,"Dayton, Ohio USA"
+435000.0,"los gatos, california"
+433586.904761905,PA
+432721.392156863,"Cincinnati, OH, USA"
+426112.537313433,"San Diego, CA"
+420786.895833333,"Denver, CO"
+420000.0,"Turnersville, NJ US"
+420000.0,Cibolo TX USA
+418605.0,Italy
+416827.569,"Glasgow, UK"
+416210.260869565,"Maryland, USA"
+409016.896551724,"Lansing, MI, USA"
+404625.0,"Auburn, MA, USA"
+401390.0,Lake Success/NY/USA
+400000.0,Seattle but we do business globally
+400000.0,"Belleview, NE USA"
+394250.0,Wyoming
+384629.029411765,"Saint Louis, Missouri United states"
+381913.154835165,UK
+381500.75,Alabama
+375000.0,Salem/Alabama/USA
+372604.708333333,"Boulder, CO"
+370892.208333333,"Santa Barbara, CA, USA"
+364820.555555556,Louisiana
+363435.384615385,"State College, PA, USA"
+362856.8,Germany
+360272.74,"Burlington, VT, USA"
+360000.0,"Ft Walton Beach, FL, USA"
+359573.684745763,"Toronto, ON, Canada"
+358944.8,New Mexico
+356567.575757576,"Knoxville, TN, USA"
+351253.676470588,"Boulder, CO, USA"
+351000.0,Ft Belvoir
+350652.222222222,"Calgary, AB, Canada"
+350000.0,Richmond
+347137.5,"South Bend, IN USA"
+345000.0,"Butte, MT"
+344168.8125,"Jackson, MS, USA"
+343187.142857143,"Bremerton, WA, USA"
+341666.666666667,Greater LA / CA / USA
+341055.0,"Virginia, USA"
+338000.0,"Sunnyvale, CA"
+334000.0,"Idaho, United States"
+333745.3125,Arkansas
+333340.963636364,"Raleigh, NC"
+332000.0,St. Joseph/Missouri/United States
+330000.0,"Missoula, MT"
+329526.527777778,"Santa Clara, CA, USA"
+329033.38,DC
+328913.127272727,"Phoenix, Arizona, USA"
+326777.0,Saudi Arabia
+325000.0,"Yardley, pA"
+325000.0,"Stillwater, MN"
+325000.0,Fort Atkinson/WI/USA
+322525.925925926,"Tampa, FL"
+322248.166666667,"Massachusetts, USA"
+320000.0,Mill Valley / CA / USA
+317170.806557377,"Ottawa, Ontario, Canada"
+313715.920792079,"Richmond, VA, USA"
+304274.095238095,"Indiana, USA"
+304250.0,New York/USA
+303953.846153846,"Lincoln, NE, USA"
+303000.6,"Binghamton, NY"
+302470.771428571,"Fairfax, VA"
+300000.0,Venice Florida
+300000.0,"Short Hills, NJ"
+300000.0,Riverside
+300000.0,Lafayette La
+300000.0,"Brandon, MS, US"
+294773.681818182,"Milwaukee, WI, USA"
+294665.641025641,New Jersey
+290066.666666667,"Lincoln, Nebraska, USA"
+289333.833333333,"Farmington Hills, MI, USA"
+282245.847333333,Scotland
+280000.0,"São Paulo, SP, Brazil"
+280000.0,"Research Triangle, NC, USA"
+280000.0,"Abu Dhabi, united arab emirates"
+279290.986666667,"New Orleans, LA"
+278567.488888889,"Springfield, MA"
+275809.608695652,"Gainesville, FL, USA"
+273241.238461538,"San Diego, CA, USA"
+271675.982142857,"Hartford, CT, USA"
+270754.403846154,Minneapolis
+266347.875,"Durham, NC, USA"
+265673.958333333,"Alexandria, VA, USA"
+265000.0,"Kentfield, CA"
+265000.0,"Cary, NC Wake County"
+264071.085714286,British Columbia
+264063.97826087,"New Jersey, USA"
+263333.333333333,"SF, CA, USA"
+260000.0,Travel
+260000.0,Nowata Oklahoma
+257500.0,"Parsippany, NJ USA"
+256247.739130435,"Chapel Hill, NC, USA"
+253256.98,Maryland
+253160.78875,"Oxford, UK"
+250000.0,"Small City, Midwest, USA"
+250000.0,"Morris County, NJ"
+250000.0,Milwaukee/Milwaukee/usa
+250000.0,"Ancram, NY, USA"
+249645.51,England
+248008.0,Wog mb Canada
+245647.551020408,Virginia
+245590.069642857,Sydney
+243784.25,Atlantic Canada
+241878.338983051,"Ann Arbor, MI, USA"
+240831.428571429,"NC, USA"
+240800.0,"St John's, NL, Canada"
+240000.0,stratham/nh/usa
+239139.090909091,"Berlin, Germany"
+239000.0,"Nacogdoches, TX"
+238152.916666667,"Palo Alto, CA"
+237801.100487805,Ireland
+236853.193317422,"Philadelphia, PA, USA"
+236083.683473389,"Austin, TX, USA"
+235000.0,Shakopee/Minnesota/USA
+235000.0,Chillicothe/Illinois/USA
+234680.0,"Loveland, Colorado, USA"
+234000.0,"Danville, California, USA"
+231597.692307692,San Diego/California/USA
+230360.0,"Lawrenceville, GA USA"
+230000.0,"Dixon, IL USA"
+226333.333333333,"Elkhart, Indiana"
+226045.381594203,"Birmingham, AL, USA"
+226017.296296296,"New Haven, CT, USA"
+225000.0,Metarie/Louisiana/USA
+221033.693548387,Pennsylvania
+220000.0,Sprinfgield Massachusetts
+220000.0,"Monaca, Pennsylvania us"
+219210.293103448,"Cincinnati, Ohio, USA"
+218500.0,Downingtown pa
+216631.2,Boston
+216000.0,Midwest United States
+215873.917525773,"Baltimore, MD, USA"
+215000.0,SF
+213906.402597403,"NY, NY, USA"
+213664.545454545,"Berkeley, CA, USA"
+212422.393258427,"Arlington, VA"
+211800.0,McKinney/Texas/USA
+210666.666666667,Oxnard CA USA
+210000.0,Stony Brook/NY/USA
+210000.0,Socorro/New Mexico/USA
+210000.0,"Buchanan, New York, usa"
+208500.0,Plymouth Meeting PA US
+208250.0,"Beverly, MA, USA"
+208000.0,El Segundo/CA/USA
+207809.5,"Raleigh, NC, USA"
+207660.0,"Menlo Park, CA"
+204645.564102564,"Chattanooga, TN USA"
+203000.0,Greater New York City
+200637.8,"Winnipeg, Manitoba, Canada"
+200488.269230769,"Des Moines, IA, USA"
+200000.0,Rocky Mount NC USA
+200000.0,New Providence/New Jersey/US
+200000.0,"Kabul, Afghanistan"
+200000.0,Barcelona
+200000.0,"Aliso Viejo, CA, USA"
+199972.905263158,France
+199000.0,Canby Oregon us
+199000.0,"Boston Metro Area, Massachusetts"
+198740.457364341,"Charlotte, NC, USA"
+198200.0,"Burlingame, CA"
+197500.0,"Tustin, CA, USA"
+197029.707006369,NY
+196516.49122807,Utah
+196170.749142857,"London, United Kingdom"
+195500.0,Cupertino
+192000.0,"Atlanfa, GA"
+191663.2,Cheyenne Wy
+190284.0,"Kokomo, IN, USA"
+190000.0,SF/can/usa
+190000.0,Greater LA area
+190000.0,"East Bay Area, CA, USA"
+189101.8,"Lynchburg, VA"
+188500.0,Undisclosed/Kentucky/USA
+188124.106508876,"Indianapolis, IN, USA"
+187847.720930233,Minnesota
+187800.0,San Jose
+187650.909090909,"Greenville, SC, USA"
+187571.428571429,Sunnyvale California USA
+187000.0,Gillette/WY/USA
+186951.702970297,"Oakland, CA, USA"
+185242.898734177,"St. Louis, MO, USA"
+185000.0,Valdez/Alaska
+185000.0,"Plymouth, MI"
+185000.0,Glencoe/IL/USA
+183500.0,"Conroe, TX, USA"
+183224.782608696,Wisconsin
+183000.0,Leander/Texas/US
+182657.142857143,"SF, CA"
+180800.0,"Erie, PA"
+180366.666666667,"Hayward, CA, USA"
+180000.0,Murphy/TX/USA
+180000.0,"Monroe, CT USA"
+180000.0,"Danville,CA, USA"
+180000.0,California kern county
+179391.87394958,"Denver, Colorado, USA"
+178069.333333333,"Mt. Pleasant, MI USA"
+177000.0,La Spezia Italy
+175000.0,tacoma wash. usa
+175000.0,Tucson
+175000.0,Louisville
+175000.0,"Fort Lee, NJ"
+175000.0,"Dublin, CA"
+175000.0,"Beckley, WV"
+175000.0,Albququeruem NM
+173871.0625,"Madison, WI, USA"
+172220.0,Zurich/Zurich/Switzerland
+172000.0,Rural/Colorado/USA
+172000.0,Fort McMurray
+170000.0,"Stafford, VA"
+170000.0,"Riverside, California, USA"
+170000.0,North Wilkesboro/NC/USA
+170000.0,Manhattan NY
+170000.0,Houston I'll usa
+169818.417777778,"Ontario, Canada"
+168000.0,Hopkinton MA USA
+167835.5,Singapore
+166770.0,Grandson/Vaud/Switzerland
+165770.0,"Sussex, UK"
+165500.0,Woodridge/Illinois/USA
+165381.25,San Jose/California/USA
+165142.857142857,Sunnyvale
+165000.0,"Novi, MI"
+164500.0,"Indiana, pa"
+164000.0,"Alameda, CA USA"
+163772.5,"Zurich, Switzerland"
+163400.0,San Antonio
+162833.333333333,NV
+162500.0,Irvine
+162000.0,Hillsdale New Jersey USA
+161053.409090909,"Miami, Florida, USA"
+161000.0,Haddonfield/nj/08108
+160000.0,"Windsor Locks, CT"
+160000.0,"Lyndhurst, NJ, USA"
+160000.0,"Dubai, United Arab Emirates"
+159333.333333333,"Laurel, MD"
+159000.0,Hunt Valley/Maryland/US
+158571.428571429,Tampa
+158500.0,Ridgewood nj
+158368.4,"Reston, VA"
+158000.0,"OKC, OK USA"
+157998.422222222,"New York, New York, USA"
+157804.347826087,"Stamford, CT, USA"
+157004.5,"Billerica, MA"
+157000.0,Little Rock
+156000.0,"Lakeville, CT USA"
+155900.0,"Quantico, VA"
+155750.0,Paramus / New Jersey / USA
+155000.0,"St Louis, MO - USA (but rate based on office location of Cincinnati, OH"
+155000.0,New Jersey / NYC Metro
+155000.0,Metro NYC
+155000.0,"Flower Mound, TX"
+155000.0,"El Centro, CA"
+153000.0,San fran
+153000.0,"Hot Springs, AR, US"
+151500.0,"San Mateo, CA, United States"
+151000.0,South Korea but with stateside address
+151000.0,"Detroit, MI/Okaland"
+150500.0,Potomac/MD/US
+150025.0,"Hackensack, NJ USA"
+150000.0,Suffern NY
+150000.0,Suburban Detroit Mi
+150000.0,"Shirley, New York, USA"
+150000.0,Santa Ana/CA/USA
+150000.0,Portlan/Oregon/USA
+150000.0,Point Pleasant/NJ/USA
+150000.0,Newbury Park / CA / USA
+150000.0,Monroe/LA/USA
+150000.0,"Marblehead, ma, USA"
+150000.0,Lewes/DE/USA
+150000.0,"Hilton Head ISland, SC USA"
+150000.0,Global
+150000.0,"Damascus, MD"
+150000.0,"CT, USAs"
+150000.0,Berkeley
+148800.0,Mukilteo/WA/USA
+148500.0,"Ocala, FL USA"
+148051.84,Hong Kong
+148000.0,Latham/NewYork/USA
+148000.0,Cranbury nj usa
+146500.0,SoCal
+146363.636363636,"Midland, TX"
+146010.576923077,"Long Island, NY"
+146000.0,Española NM USA
+145555.555555556,Southeast US
+145000.0,Washigton DC
+145000.0,San Marino/California/USA
+145000.0,"Lewisville, Texas USA"
+145000.0,"Grand Blanc, MI, USA"
+145000.0,"Elk Grove Village, IL"
+144000.0,RTP/Durham/NC
+144000.0,Dublin Ohio usa
+144000.0,"Colprado Springs, CO, USA"
+143142.857142857,Eden Prairie man usa
+143000.0,"Lowell, MA"
+143000.0,"Green, Ohio, United States"
+143000.0,East Troy/Wisconsin/USA
+142818.181818182,"Illinois, USA"
+142500.0,Ventura/CA/USA
+142500.0,"Red Bank, NJ"
+142329.666666667,"Gloucester, ma usa"
+142188.888888889,"Bellingham, WA, USA"
+141666.666666667,Lehi Utah
+141600.0,Guetersloh/North Rhine-Westfalia/Germany
+140600.0,Northern Territory
+140561.142857143,Hillsboro / Oregon
+140500.0,"Saddle Brook, NJ, USA"
+140233.466666667,"Detroit, MI"
+140000.0,"Tulare county, california"
+140000.0,"Philadelpohia, pa"
+140000.0,Oakhurst/NJ/USA
+140000.0,NYC metropolitan area
+140000.0,Multiple
+140000.0,"Jc,nj"
+140000.0,"I work 100% remotely. My head office is in Arlington, VA, USA."
+140000.0,"Hauppauge, New York, USA"
+140000.0,"Emeryville, CA, USA"
+140000.0,"Elkridge, MD, USA"
+140000.0,DC Metro
+139600.0,East Coast USA
+139500.0,Roseville California
+139000.0,SJ/CA/USA
+139000.0,"Jackson, ohio"
+139000.0,"Bountiful, Utah USA"
+138894.0,Walnut Creek CA USA
+138750.0,"SF Bay Area, CA, USA"
+138521.44,"Bay Area, CA"
+138101.285714286,"El Paso , Tx. USA"
+138000.0,"Santa Ana, California, USA"
+138000.0,"Martinez, CA, US"
+138000.0,Katy Texas usa
+138000.0,Asheville
+137500.0,Northeast USA
+137500.0,Maricopa County Arizona
+137500.0,"Friendswood, TX, US"
+136729.363636364,Austin
+136666.666666667,"Redlands, CA USA"
+136600.0,Murfreesboro Tennessee
+136305.372,"Geneva, Switzerland"
+136000.0,"Ventura County, CA"
+136000.0,"Piketon, Ohio, USA"
+135849.5,Cherry Hill NJ
+135600.0,Bay Area
+135600.0,"Anaheim, California, USA"
+135500.0,stowe vt
+135500.0,Kirkland/WA/USA
+135500.0,Fresno CA USA
+135333.333333333,"San Mateo, California, USA"
+135000.0,Snohomish
+135000.0,North Canton Ohio USA
+135000.0,Large East Coast City
+135000.0,Honolulu/HI/Honolulu
+135000.0,DTS / MD / USA
+135000.0,"Burleson, TX USA"
+135000.0,Austin to
+135000.0,Angola
+135000.0,"A City, Wyoming, USA"
+134608.8,"Los Alamos, NM USA"
+134500.0,LA/CA/USA
+134400.0,"Yellowknife, Northwest Territories, Canada"
+134250.0,"Chantilly, Virginia, USA"
+134000.0,"Hatboro, PA, US"
+134000.0,"Fairview, TX, USA"
+134000.0,Bedford
+133500.0,Dallas ft worth
+133000.0,"RTP, NC USA"
+133000.0,Kane county/Illinois/USA
+132000.0,Duluth/Georgia/USA
+132000.0,"Avondale, AZ"
+131666.666666667,"Watsonville, CA"
+131500.0,"Aurora, Illinois"
+131000.0,Caribbean
+130543.155963303,"Detroit, Michigan, USA"
+130333.333333333,Stockton CA. Usa
+130066.666666667,"South San Francisco, CA, USA"
+130000.0,Topeka
+130000.0,Southeast Florida
+130000.0,"San Ramon, California"
+130000.0,"Remote (company based near Phila, PA)"
+130000.0,NY city
+130000.0,"Modesto, CA"
+130000.0,"Klamath Falls, Oregon, USA"
+130000.0,"Kent, Washington"
+130000.0,Dublin CA USA
+129560.0,Medford OR
+129539.84,"Palo Alto, CA, USA"
+129000.0,"San Pablo, California, United States of America"
+128000.0,"Oak Ridge, TN, USA"
+128000.0,"Fond du Lac, WI"
+127600.0,"Baltimore/DC metro area, US"
+127172.5,"Long Beach, CA"
+127000.0,"Quakertown, PA"
+127000.0,"Millbrae, CA, USA"
+127000.0,"Hanover, NH, USA"
+127000.0,"Draper, UT"
+127000.0,"Chevy Chase, Maryland, USA"
+127000.0,Anadarko/Oklahoma/United States
+126833.333333333,"Tuscaloosa, AL"
+126500.0,"Riverside County, CA, USA"
+126100.0,"Redmon, WA, USA"
+126028.571428571,"Everett, WA"
+126000.0,Saint Louis
+126000.0,Owego/NY//USA
+126000.0,"Madison, NJ"
+126000.0,"Chicago, IL (Downtown)"
+125025.0,Tokyo/Tokyo/Japan
+125000.0,palmer alaska
+125000.0,York Pennsylvania USA
+125000.0,Prescott Valley AZ
+125000.0,"Park Ridge, NJ, USA"
+125000.0,North Texas USA
+125000.0,"Metro Sacramento, California, USA"
+125000.0,King Washington USA
+125000.0,"Hanover, PA"
+125000.0,Gladstone OREGON USA
+125000.0,"Edmond, OK USA"
+125000.0,Asheville North Carolina USA
+124954.133333333,Kentucky
+124877.380952381,"Bellevue, WA, USA"
+124544.0,"Rochester Hills, MI, USA"
+124500.0,Saint George Utah US
+124300.0,"Tysons Corner, VA, USA"
+124139.75,Tampa/Florida/USA
+124093.068181818,Switzerland
+124026.666666667,MD/USA
+124000.0,Trail BC
+124000.0,"Piedmont Triad, NC, USA"
+124000.0,"Cary, NC, USA"
+124000.0,Ben Lomond/CA/USA
+124000.0,"Atherton, CA, USA"
+123857.142857143,White Plains NY USA
+123000.0,"Wiesbaden, Germany"
+123000.0,"Oaks, PA, USA"
+123000.0,Auburn Alabama USA
+122919.0,"Auburn, WA"
+122894.125,"Dubai, UAE"
+122777.777777778,"San Mateo, CA, USA"
+122601.0,Littleton/Colorado/USA
+122600.0,"Centennial, Colorado, USA"
+122580.684931507,Massachusetts
+122500.0,"Vienna, VA"
+122500.0,Hampton NH
+122500.0,Folsom/California/Sacramento
+122000.0,"Minnesota, MN USA"
+122000.0,"Hanover, New Hampshire, USA"
+122000.0,"Eugene, OR"
+121842.857142857,Pleasanton/CA/USA
+121000.0,"Charleson, SC, USA"
+120750.0,"Norwalk, CT USA"
+120000.0,"York, Pa, United States"
+120000.0,San Juan/PR/USA
+120000.0,Roswell New Mexico
+120000.0,"Richfield, Utah. United States"
+120000.0,Philippines
+120000.0,OCONUS/Kabul/Afganistan
+120000.0,"Merced, CA"
+120000.0,"Medford, MA USA"
+120000.0,Livonia/Michigan/USA
+120000.0,Linthicum Md usa
+120000.0,"Ketchum, ID"
+120000.0,"Itasca, Il, usa"
+120000.0,"Issaquah, WA"
+120000.0,Hillsboro
+120000.0,"Folsom, CA"
+120000.0,"Ewing, NJ"
+120000.0,Dalevile /AL /USA
+120000.0,"Burley, Idaho"
+120000.0,"Bolton, MA, USA"
+120000.0,Bluefield/VA/USA
+120000.0,"Beverly, MA"
+120000.0,Aztec/New Mexico/USA
+120000.0,Ann Arbor
+119900.0,Geneva
+119900.0,Bahrain
+119750.0,Barrington/IL/USA
+119746.75,"Mansfield, Ohio"
+119666.666666667,Fraser MI USA
+119132.8,"New Brunswick, NJ, USA"
+119000.0,"Lebanon, NH, USA"
+119000.0,"Dover, NJ"
+118500.0,"North Chicago, Illinois, USA"
+118500.0,"Hershey, PA, USA"
+118333.333333333,Bermuda
+118300.0,"Shanghai, China"
+118285.714285714,"Westchester, NY"
+118000.0,Suffern/NY/USA
+118000.0,Scarsdale New York
+118000.0,"Redlands, CA"
+118000.0,New City/NY/USA
+118000.0,"Los Altos Hills, CA."
+118000.0,"Hornell, NY"
+118000.0,Dublin
+117800.0,"Hoboken, NJ"
+117500.0,"Grass Valley, CA, USA"
+117342.222222222,Finland
+117179.0,Cairns QLD Australia
+117000.0,"Upper Midwest (can't say more, sorry)"
+116750.0,Long Beach/ California/ USA
+116649.375,"Seattle, WA, United States"
+116408.857142857,Palo Alto
+116275.0,Grand Junction CO
+116250.0,"Peoria, IL"
+116134.271698113,Toronto
+116000.0,"Truckee CA, USA"
+116000.0,Kankakee/IL/USA
+116000.0,Decatur AL USA
+116000.0,Brewster NY USA
+115800.0,"Dearborn, Michigan"
+115615.789473684,"Redwood City, CA"
+115333.333333333,"Chantilly, VA, USA"
+115000.0,"owings mills, md"
+115000.0,Reno/Nevada/United States
+115000.0,"Remote, NC"
+115000.0,Redlands/California/USA
+115000.0,"Puyallup, WA"
+115000.0,Pierce County Washington
+115000.0,"Moore, Ok"
+115000.0,"Lynnwood, WA"
+115000.0,Large metro area/East Coast/US
+115000.0,Easton ct USA
+115000.0,"Acton, Ma USA"
+114674.418604651,Houston
+114666.666666667,Deerfield IL USA
+114600.0,"Sterling, VA"
+114450.0,"Lausanne, Switzerland"
+114299.5,Titusville / FL / usa
+114175.09375,"Santa Ana, CA"
+114000.0,Limerick/PA/19464
+114000.0,Chester Va
+114000.0,Autin/Texas/USA
+113877.5,Japan
+113666.666666667,"Fayetteville, NC"
+113659.090909091,"Irvine, CA"
+113516.0,"Düsseldorf, Germany"
+113500.0,"American Fork, UT, USA"
+113280.0,"NRW, Germany"
+113000.0,"Reno, Nevada"
+113000.0,Orange ca
+113000.0,"Modesto, California"
+113000.0,"McLean, Virginia, USA"
+113000.0,"Collinsville, Illinois, USA"
+112875.0,"Lake Mary, FL USA"
+112773.7,FL
+112728.571428571,Midwest
+112500.0,"Anacortes, WA"
+112314.285714286,"Richland, WA"
+112125.0,Las Vegas
+112000.0,Mid-Atlantic
+112000.0,Mexico
+112000.0,"Helena, Montana, USA"
+111928.571428571,"CT, USA"
+111891.0,"Delaware, USA"
+111800.0,"McLean, VA, USA"
+111800.0,"Broomfield, CO"
+111750.0,Morris Plains/NJ/USA
+111375.0,Charlotte
+111333.333333333,"Maryland, United States"
+111333.333333333,"Lake Charles, LA USA"
+110500.0,New Paltz / New York / USA
+110444.444444444,"Pasadena, CA, USA"
+110285.0,"Laurel, MD USA"
+110000.0,Statesboro/Georgia/USA
+110000.0,South Lyon MI USA
+110000.0,Smyrna/TN/USA
+110000.0,San Jose / ca / Santa Clara
+110000.0,"Salem, NH USA"
+110000.0,"Ridgefield Park, NJ, USA"
+110000.0,"Puyallup, WA USA"
+110000.0,"Placerville, CA"
+110000.0,Orrville/Ohio/United States
+110000.0,"Neenah, Wisconsin, USA"
+110000.0,"Maryville, IL. USA"
+110000.0,Lorton va
+110000.0,"Guadalajara, Jalisco, Mexico"
+110000.0,Greenwhich/Connecticut/USA
+110000.0,"Gold Country, California"
+110000.0,"De Pere, WI"
+110000.0,Chesterton IN
+110000.0,California/Orange County
+109913.043478261,Arizona
+109616.666666667,Greater NYC Area
+109432.18,"LA, CA"
+109000.0,Oldsmar/Florida/USA
+109000.0,"Cochranville, PA, USA"
+108972.0,"McLean, VA"
+108800.0,Northbrook IL USA
+108800.0,Chicago Area
+108000.0,"Whittier, California"
+108000.0,"San Carlos, California, USA"
+108000.0,Large city in Texas
+107804.347826087,New Hampshire
+107625.0,Peoria Illinois USA
+107500.0,Chandler/Arizona/USA
+107333.333333333,Milford Connecticut usa
+107280.0,"Dahlgren, VA"
+107233.333333333,"Tacoma, WA, USA"
+107132.0,Ferndale/MI/USA
+107000.0,Warner Robbins/GA/usa
+107000.0,"Seatte, WA, United States"
+107000.0,Near Los Angeles CA
+107000.0,"Mundelein, IL USA"
+107000.0,"Dover, NH, USA"
+106947.5,Israel
+106857.833333333,"Concord, CA"
+106833.333333333,DC area
+106666.666666667,"LAkeland, FL USA"
+106646.153846154,Kansas City
+106500.0,"St. Clair Shores, MI, USA"
+106500.0,Coeur d Alene Idaho
+106240.0,"Penna., USA"
+106200.0,"Baden-Württemberg, Germany"
+106000.0,Omaha
+106000.0,Lynbrook/NY/USA
+105634.526315789,"CA, USA"
+105596.25,"Troy, MI, USA"
+105500.0,"Newark, CA, USA"
+105354.545454545,"Miami, FL"
+105250.0,Bethesda
+105233.333333333,Remote
+105000.0,soldotna/Alaska/US
+105000.0,"South Sioux City, NE"
+105000.0,Paducah/Kentucky/usa
+105000.0,North NJ
+105000.0,NY State
+105000.0,"Miami, FL United States"
+105000.0,"Medina, Minnesota"
+105000.0,"Houaton, TX"
+105000.0,Fort Bragg NC
+105000.0,"Florham Park, NJ, USA"
+105000.0,"Dayton, Ohio, United States"
+105000.0,Bethesda/Washington DC/USA
+105000.0,Bellevue Nebraska USA
+104996.0,"St. Paul, MN"
+104800.0,"Plymouth, MA, USA"
+104748.0,"Goleta, California, USA"
+104666.666666667,Sonoma County
+104600.0,"Raleigh-Durham, NC"
+104600.0,"Norwood, Ma, US"
+104462.428571429,"Bethesda, MD, USA"
+104420.0,"Hilo, HI"
+104416.333333333,"East Lansing, MI"
+104333.333333333,"Brooklyn, NY, United States"
+104333.333333333,"Bothell, WA, USA"
+104104.00195,"Tokyo, Japan"
+104040.0,"Milpitas, CA"
+104000.0,Roselle/Illinois/usa
+104000.0,Marathon/Texas/USA
+104000.0,"Mammoth Lakes, CA, US"
+104000.0,Leamington/ Ontario/ Canada
+104000.0,Deteoit
+103910.0,"Brisbane, Australia"
+103723.5,"Fort Belvoir, VA"
+103680.0,"San Diego County, CA"
+103333.333333333,Galveston Texas USA
+103162.5,"Columbia, MD, USA"
+103000.0,"Wixom, MI, USA"
+103000.0,Garden Grove CA USA
+103000.0,"Folsom, CA, USA"
+102837.5,"Bakersfield, CA, USA"
+102791.958333333,"Albany, NY"
+102750.0,UK Southeast
+102666.666666667,"Natick, MA USA"
+102500.0,"Grapevine, Texas, USA"
+102400.0,"Hartland, WI, USA"
+102333.333333333,"Seatte, WA"
+102333.333333333,"Modesto, ca, US"
+102325.0,SF Bay Area
+102200.0,Southeastern US
+102114.333333333,West Virginia
+102000.0,"Land O Lakes, FL, USA"
+102000.0,"Corp hq is Folsom, CA . i am remote in Ventnor NJ"
+102000.0,Canton/GA/USA
+101700.0,"Cary, NC"
+101600.0,Victoria
+101513.333333333,"Carlsbad, CA"
+101500.0,South Florida
+101323.5,"Jersey City, NJ"
+101063.0,Wheaton/IL/USA
+101000.0,St. Joseph / Michigan / USA
+101000.0,Flushing MI USA
+101000.0,"Blue bell, Pennsylvania,usa"
+100816.363636364,Fremont/CA/USA
+100776.722222222,"Harrisburg, PA, USA"
+100700.0,Greenville NC USA
+100687.5,Hoboken /NJ /USA
+100649.714285714,"Santa Fe, NM USA"
+100500.0,Chicago/Il/cook
+100500.0,Cape May county New Jersey
+100500.0,Bolingbrook/IL/USA
+100423.176470588,Edison nj usa
+100233.43902439,"California, USA"
+100191.333333333,"Lubbock, TX"
+100145.454545455,"Bentonville, AR"
+100106.086956522,"Bay Area, California"
+100000.0,"Warwick, RI, USA"
+100000.0,"Valley Forge, PA"
+100000.0,Truman MN USA
+100000.0,Trevose PA
+100000.0,ST. GEORGE/UTAH/UNITED STATES
+100000.0,Rancho Cucamonga / California / United States
+100000.0,Raleigh
+100000.0,Outside Atlanta/GA/USA (remote work)
+100000.0,Olmsted/MN/USA
+100000.0,New hyde oark/NY/USA
+100000.0,"New Delhi, India"
+100000.0,Macomb / MI / USA
+100000.0,"Livermore, CA USA"
+100000.0,"Latham, NY, US"
+100000.0,"Hollywood, CA"
+100000.0,Chile
+100000.0,"Century City, CA, USA"
+100000.0,"Buffalo, NY (but my company is based in NYC)"
+100000.0,"Atlants, GA USA"
+100000.0,America
+99666.6666666667,"Bowling Green, KY, USA"
+99600.0,"Waltham, MA"
+99500.0,Phoenix
+99500.0,"DFW, TX"
+99471.0,Southern California
+99455.0,"Kenilworth , NJ"
+99326.6666666667,"Nevada, USA"
+99300.0,"Elmira, NY, USA"
+99166.6666666667,"Basking Ridge, NJ USA"
+99120.0,"Corona, california, usa"
+99100.0,"Boston area, MA, USA"
+99000.0,Salisbury N.C. USA
+99000.0,Ridgeland MS USA
+98632.8333333333,"Herndon, VA USA"
+98541.8,"Warren, MI, USA"
+98400.0,Cariboo/BC/Canada
+98349.5,"Portsmouth, NH, USA"
+98298.9462068966,"Sydney, Australia"
+98218.75,CT
+98206.25,Detroit
+98100.0,Royal Oak/MI/USA
+98060.0,DFW TX USA
+98000.0,Upper Valley NH / VT
+98000.0,"Torrance, CA USA"
+98000.0,"Phoenix, Ax"
+98000.0,North Atlanta GA USA
+98000.0,Marietta ga
+98000.0,"Gulf Breeze, FL US"
+98000.0,"Concordville, Pa"
+98000.0,"Beverly Hills, CA United States"
+98000.0,"Antioch, CA, US"
+97933.3333333333,"SF Bay Area, CA"
+97848.4,Everett/WA/USA
+97800.0,Walled lake mi 48390
+97700.0,"Paterson, NJ, USA"
+97690.5357142857,"Fort Collins, CO, USA"
+97680.0,"Newman, West Australia, Australia"
+97500.0,"Hong Kong, SAR of PRC"
+97500.0,Destin fl
+97424.0,"El Cajon, CA, US"
+97393.3333333333,Cypress/CA/USA
+97133.0,London UL
+97068.0,"Savannah, Georgia USA"
+97000.0,"Winnemucca, NV USA"
+97000.0,Tigard/Oregon/USA
+97000.0,"South Paris, ME USA"
+97000.0,"Loa Angeles, CA, USA"
+97000.0,"Laurens, SC"
+96940.2857142857,"Santa Rosa, CA USA"
+96820.0,Niceville/FL/USA
+96798.6666666667,"Idaho Falls, Idaho, USA"
+96760.0,"Troy, MI"
+96760.0,"Co Cork, Ireland"
+96750.0,Laurel Maryland USA
+96732.0,"Juneau, Alaska USA"
+96500.0,(Remote) Augusta/GA/USA
+96445.4545454545,"Scottsdale, AZ, USA"
+96200.0,Winston hills/nsw/australia
+96170.0,Stuttgart / BaWü / Germany
+96000.0,"VAN WERT, OHIO"
+96000.0,Toronto CA
+96000.0,Thunder Bay
+96000.0,"Kitchener, Waterloo"
+96000.0,Fort Gordon/Georgia/USA
+95950.0,Manassas Virginia
+95833.3333333333,"Malden, MA, USA"
+95584.0,Davenport Iowa USA
+95538.75,"Phoenix, AZ"
+95500.0,"Burnsville, MN United States"
+95000.0,"Virginia, United States"
+95000.0,"Saint Joseph, Missouri"
+95000.0,"Pittsburg, CA, USA"
+95000.0,"Nogales,Az. USA"
+95000.0,New Haven
+95000.0,"New Braunfels, TX, USA"
+95000.0,Maple grove/MN/USA
+95000.0,Kansas/United States
+95000.0,Holliston/MA/USA
+95000.0,"Hidalgo County, TX"
+95000.0,"Eastern Pennsylvania, USA"
+95000.0,"Deer Park, IL USA"
+95000.0,"Dayton, OH, United States"
+95000.0,"Bensenville,"
+95000.0,Auburn/WA/USA
+94500.0,"Tysons, VA, USA"
+94500.0,RI
+94500.0,"Petaluma, CA, USA"
+94500.0,"Annandale, VA, USA"
+94400.0,"Wuppertal, Germany"
+94400.0,NL
+94400.0,Madrid/Madrid/Spain
+94400.0,Maastricht/Limburg/Netherlands
+94400.0,"Calgary, AB"
+94325.0,"Alpharetta, GA, USA"
+94120.0,"Hammond, IN"
+94000.0,Scottsdale AZ
+94000.0,"Jessup, Maryland USA"
+94000.0,Jersey City
+93963.6666666667,Paris
+93962.5,"(Remote) job based in Oakland, CA USA"
+93903.3333333333,Minneapolis St Paul
+93833.3333333333,"Savannah, GA"
+93500.0,"Poughkeepsie, NY USA"
+93500.0,"Palmdale,CA / USA"
+93250.0,"Pasadena, California, USA"
+93203.8095238095,"Annapolis, MD, USA"
+93075.3333333333,Aberdeen MD USA
+93000.0,"Vicksburg, MS, USA"
+93000.0,Enid OK
+93000.0,"Augusta, GA"
+92950.0,"Longmont, CO, USA"
+92878.0,"Boston, MA United States"
+92873.3333333333,"Santa Monica, CA, USA"
+92814.0,"Byron, Illinois, USA"
+92804.2877777778,"Newcastle, NSW, Australia"
+92800.0,"Grand Cayman, Cayman Islands"
+92760.0,"San Jose, CA, United States"
+92750.0,"Tulsa, OK"
+92662.5,"Irving, TX, USA"
+92535.4545454545,Melbourne
+92500.0,"lake county, il"
+92500.0,"Vallejo, CA"
+92500.0,"MERRITT ISLAND, FL, USA"
+92475.0,Mobile/Alabama/USA
+92333.3333333333,"York, PA"
+92266.6666666667,"Oslo, Norway"
+92200.0,"Southfield, Michigan, USA"
+92126.0,"Palm Springs, CA"
+92051.75,United Arab Emirates
+92040.0,"Schmallenberg, Germany"
+92040.0,Berlin/Berlin/Germany
+92000.0,"wahington, D.C."
+92000.0,coffeyville ks us
+92000.0,"Williston, VT, USA"
+92000.0,"Sierra Vista, AZ"
+92000.0,Philadephia
+92000.0,Lockport IL USA
+92000.0,Lakewood/Colorado/USA
+92000.0,"La Jolla, CA, USA"
+92000.0,"Golden, CO"
+92000.0,DC/DC/USA
+92000.0,"Atlanta Metro area, GA USA"
+92000.0,Aliso Viejo/California/USA
+91875.0,"Jersey City, NJ, USA"
+91829.5384615385,"Brooklyn, NY, USA"
+91790.0,"Jersey, Channel Islands"
+91750.0,"Stevens Point, Wisconsin"
+91527.0,"Greenbelt, MD"
+91390.0,"Kodiak, AK"
+91367.0,Poway California USA
+91017.25,Norman/OK/USA
+91000.0,Sahuarita/ Arizona/ United States
+91000.0,Richardsib/TX/US
+91000.0,"Golden, Colorado, USA"
+91000.0,"Expensive City, USA"
+91000.0,"Dulles, Virginia"
+91000.0,Chelmsford/massachusetts/usa
+90950.0,"North Dakota, USA"
+90925.0,Schaumburg IL USA
+90900.415,Paris/IDF/France
+90839.7692307692,"Rockville, MD, USA"
+90720.0,Terre Haute/Indiana/USA
+90666.6666666667,"Shelton, CT, USA"
+90610.5,"Phoenix, AZ United States"
+90375.0,Vienna / VA / USA
+90302.2796610169,"Orlando, FL"
+90300.0,"East Brunswick, NJ, USA"
+90233.3333333333,"Dallas-Fort Worth, Texas, USA"
+90000.0,"Yuma, Arizona, USA"
+90000.0,Williston/North Dakota/USA
+90000.0,"Waskom, TX"
+90000.0,Southport/NC/USA
+90000.0,Southern Utah / US
+90000.0,Sandy Hook / Connecticut / USA
+90000.0,Saline/MI/USA
+90000.0,"Roswell, GA"
+90000.0,Rochesre/MN/USA
+90000.0,Raleigh/BC/USA
+90000.0,"Queens, NY"
+90000.0,"Pryor, OK, USA"
+90000.0,Pittsburgh Area/PA/USA
+90000.0,"North Attleboro, MA 02760"
+90000.0,National City/CA/USA
+90000.0,NA/Pennsylvania/USA
+90000.0,Kentucky small town
+90000.0,"Kekaha, HI"
+90000.0,Iowa City/Iowa/United States
+90000.0,Ionia MI USA
+90000.0,"Gresham, OR USA"
+90000.0,Gresham OR 97080
+90000.0,"Glendora, CA"
+90000.0,"Conyers, GA, USA"
+90000.0,"Chicopee, Massachusetts USA"
+90000.0,Chatlotte NC
+90000.0,"Calexico, California, United States of America"
+90000.0,"Calabasas, ca, USA"
+90000.0,"Avon, Colorado, USA"
+89914.2857142857,IL
+89905.0,"Hoboken, New Jersey"
+89818.1818181818,Fort Myers / FL / USA
+89800.0,"Oshawa, Ontario, Canada"
+89666.6666666667,"Waterbury, CT USA"
+89666.6666666667,"Mount Laurel, NJ"
+89500.0,"White Earth, MN, USA"
+89500.0,"Bethesda, Maryland"
+89422.9411764706,"Tucson, AZ"
+89381.0,"Sebastopol, CA"
+89372.8275862069,"Brooklyn, NY"
+89116.35,Missouri
+89010.0,"East Greenbush, NY"
+89000.0,"Washignton, DC"
+89000.0,"Tracy, California, US"
+89000.0,"Newark, Ohio"
+89000.0,Greater Philadelphia
+89000.0,Chesapeake/Virginia/USA
+88794.0,"Plainville, Connecticut, US"
+88666.6666666667,"Midland, MI, USA"
+88666.6666666667,"Alameda, CA"
+88590.0,"Fairfield County, CT"
+88541.6666666667,"Naperville, IL USA"
+88511.1111111111,"Toledo, Ohio USA"
+88500.0,"Taunton, MA USA"
+88500.0,Roseville/CA/USA
+88500.0,"Berlin, DE"
+88466.1481481481,"Florida, USA"
+88400.0,"Markham, Ontario, Canada"
+88360.0,"Riverside, CA, USA"
+88333.3333333333,"Petaluma, California (San Francisco Bay Area)"
+88285.7142857143,"Gilbert, AZ USA"
+88132.5,"Montpelier, VT, USA"
+88000.0,califonia
+88000.0,arvada/colorado/usa
+88000.0,Westlake Village
+88000.0,Warminster PA
+88000.0,Somerset/NJ/USA
+88000.0,"New Hope, PA"
+88000.0,Hutchinson/KS/USA
+88000.0,"Florence, KY"
+88000.0,"Fargo, ND"
+88000.0,Chatsworth / California / USA
+88000.0,"CLINTON, maryland"
+87933.3333333333,"St. George, UT, USA"
+87833.3333333333,Joplin mo
+87752.7586206897,"St. Louis, MO"
+87666.6666666667,Fremont California USA
+87605.5555555556,"Ithaca, NY"
+87566.0333333333,"Ohio, USA"
+87500.0,"Willcox, AZ"
+87500.0,"Saginaw, MI. USA"
+87480.0,Leesburg VA USA
+87471.3384615385,Iowa
+87333.3333333333,Pacific Northwest
+87250.0,"Truckee, California United States"
+87250.0,"Glenview, IL USA"
+87025.25,"Ames, IA USA"
+87000.0,"Patuxent River, MD"
+87000.0,Monticello/MN/USA
+87000.0,"McCallq, Alabamad"
+87000.0,"Boston, MA area"
+86900.0,"Reston, Virginia, USA"
+86800.0,Yukon Canada
+86645.7142857143,"Pasadena, CA"
+86641.4285714286,"Beaverton, Oregon, USA"
+86628.0,"New York, NY, United States"
+86500.0,East Tennessee
+86138.0,"Waltham, MA, USA"
+86060.0,Denmark - Copenhagen
+86011.1111111111,"Orange, CA, USA"
+86000.0,Simsbury/CT/USA
+86000.0,Morris/Minnesota/USA
+86000.0,"Lowell, Massachusetts, USA"
+86000.0,"Lone Tree, Iowa, US"
+86000.0,"Cody, WY, USA"
+86000.0,"Clifton, NJ"
+86000.0,Bordentown/New Jersey/US
+86000.0,Apex/NC/USA
+85828.5744680851,Oregon
+85800.0,MD
+85750.0,"Kittery, Maine"
+85600.0,"Thunder Bay, Canada"
+85500.0,"Yarmouth, Maine, USA"
+85500.0,"Tarrytown, NY USA"
+85500.0,"South Plainfield, NJ USA"
+85400.0,Scottsdale Arizona USA
+85166.6666666667,"Bennington, NE USA"
+85100.0,"Mobile, AL, USA"
+85000.0,"loves park, illinois"
+85000.0,key west Florida
+85000.0,"Waterville, ME"
+85000.0,"Warwick, Rhode Island, USA"
+85000.0,Warren/New Jersey/USA
+85000.0,"Urbandale, Iowa USA"
+85000.0,Uganda
+85000.0,"Tampa, FL, United States"
+85000.0,"Somerset,nj"
+85000.0,"San Mateo, CA"
+85000.0,"SF Bay Area, California"
+85000.0,Roanoke/VA/United States of America
+85000.0,"Pocatello, ID, USA"
+85000.0,Pine Brook/NJ/USA
+85000.0,"New Hampton, IA 50659"
+85000.0,Middlesex CT
+85000.0,Middle Granville
+85000.0,"Manila, Philippines"
+85000.0,"Livingston, NJ, USA"
+85000.0,Independence/ KY / United States
+85000.0,Illinois/illinois/USA
+85000.0,"Hurricane, WV"
+85000.0,"Gig Harbor, WA, US"
+85000.0,Freeport Maine USA
+85000.0,Ethiopia
+85000.0,"Danbury,CT"
+85000.0,"Dakota Dunes, SD USA"
+85000.0,Cape Canaveral FL USA
+84937.5,"Allentown, PA, USA"
+84888.8888888889,"Andover, MA, USA"
+84872.0,"Cerritos, CA, USA"
+84800.0,Lanham/MD/US
+84500.0,"Lafayette, IN, USA"
+84500.0,KC MO
+84500.0,"Allen, TX USA"
+84375.0,Benton Harbor Mi higan
+84356.0,"Washingtkn, DC"
+84250.0,"Lowell, MA, USA"
+84178.9,"Bay Area, CA, USA"
+84142.6666666667,"Carrollton, Texas USA"
+84084.6136363636,"Colorado Springs, CO USA"
+84000.0,"Westchester County, NY"
+84000.0,"Vicenza, Italy"
+84000.0,US Mid-Atlantic
+84000.0,"Sparks, Nevada"
+84000.0,"Jersey City, NJ, United States"
+84000.0,"Columbia, TN USA"
+84000.0,"Calgary, Canada"
+84000.0,Addison/TX/US
+83895.4545454545,"Boulder, Colorado, USA"
+83708.9818181818,"Madison, WI"
+83666.6666666667,"Wilsonville, OR"
+83625.0,"Temple,Tx. USA"
+83620.4,"Akron, Ohio, USA"
+83571.4285714286,"Western Massachusetts, US"
+83552.3809523809,Pittsburgh
+83500.0,"North Salt Lake, Utah, USA"
+83500.0,"Indiana, Pennsylvania USA"
+83500.0,"Chantilly, VA"
+83460.0,"Georgetown, TX , USA"
+83400.0,"San Clemente, CA USA"
+83396.2807017544,"Oklahoma City, OK, USA"
+83200.0,"PITT MEADOWS, BC, CANADA"
+83200.0,Lake Orion MI United States of America
+83200.0,Haines City/ Florida/US
+83035.4,Hawaii
+83000.0,"Wires Barre, PA"
+83000.0,"Roseville, ca"
+83000.0,"New Jersey, NJ"
+83000.0,Liberty/SC/USA
+83000.0,Justin TX USA
+83000.0,Intermountain West
+83000.0,FONTANA CA USA
+83000.0,"Eureka, CA USA"
+83000.0,"East Rutherford, NJ"
+83000.0,"Eagan, Minnesota, USA"
+82857.1428571429,"Bellevue, Washington, USA"
+82800.0,Durango CO
+82782.0,"Hannibal, MO"
+82675.0,Ellicott City / Maryland / USA
+82600.0,"The Hague, The Netherlands"
+82600.0,"Erlangen, Germany"
+82500.7333333333,Norfolk VA USA
+82500.0,Roanoke/Virginia/USA
+82500.0,"Hanover, MD, USA"
+82500.0,Florence Oregon USA
+82500.0,Flat Rock/MI/USA
+82487.8421052632,"Grand Rapids, MI, USA"
+82400.0,Whitehorse/ Yukon/ Canada
+82400.0,"Smithers, BC, Canada"
+82340.875,"Frisco, TX, USA"
+82250.0,"Valparaiso, IN USA"
+82072.0,"Kent, WA, USA"
+82042.3636363636,"Wisconsin, USA"
+82030.0,"College Station, Texas"
+82000.0,Mt. Clemens / Michigan / USA
+82000.0,"Monroe, LA"
+82000.0,La Crescent/MN/United States
+82000.0,"LA County, California"
+81985.7142857143,Baltimore
+81760.0,"Costa Mesa, California, USA"
+81745.15,"Michigan, USA"
+81689.0909090909,"Fredericksburg, VA"
+81688.0,Central Texas
+81515.0,Glasgow
+81500.0,"Woburn, MA"
+81500.0,"Santa Fe, New Mexico"
+81500.0,Ruston LA
+81500.0,"Radford, VA, USA"
+81500.0,Massapequa/NY/USA
+81375.0,India
+81291.6666666667,"Morristown, NJ, USA"
+81125.0,Philadephia/PA/USA
+81110.0327868852,"Melbourne, Victoria, Australia"
+81082.3529411765,"Santa Cruz, CA, USA"
+81026.8148148148,"Lancaster, PA, USA"
+81000.0,Van Buren/AR/USA
+81000.0,"Shorewood, IL"
+81000.0,Rock Hill/SC/USA
+81000.0,"Paterson, New Jersey, USA"
+81000.0,"Owatonna, MN USA"
+81000.0,"Novi, Michigan USA"
+81000.0,"Mountain Lakes, NJ, USA"
+81000.0,"Ithaca, New York, USA"
+81000.0,Fresno/can/usa
+80940.0,"Lewiston, ID"
+80900.0,"Towson, MD, USA"
+80829.1896551724,"Albuquerque, NM, USA"
+80825.0,"Radnor, PA, USA"
+80742.0,"Sumner, WA USA"
+80690.0,"West Des Moines, IA, United States"
+80627.8333333333,"Gaithersburg, MD"
+80579.0,"South Haven, MI, USA"
+80500.0,St. Johnsbury vermont usa
+80125.75,"DC, USA"
+80125.0,"Pekin,IL"
+80016.1666666667,Reading/PA/USA
+80000.0,"armonk, NY"
+80000.0,"York, Maine, USA"
+80000.0,Yonkers NY
+80000.0,Wise/Va/USA
+80000.0,"Wilton, CT"
+80000.0,Vietnam
+80000.0,Victoria/TX/USA
+80000.0,Tyler TX USA
+80000.0,"Sausalito, CA USA"
+80000.0,Russellville
+80000.0,"Rockland County, NY"
+80000.0,"Rockford, IA, USA"
+80000.0,Oman
+80000.0,"Mukilteo, WA"
+80000.0,Lombard Illinois USA
+80000.0,"Lapoutroie, France (work remotely in US)"
+80000.0,Kuala Lumpur
+80000.0,"Kohler, WI"
+80000.0,"Ketchikan, AK, USA"
+80000.0,"Hawthorne, New Jersey, USA"
+80000.0,"Great Neck, New York"
+80000.0,Eureka California USA
+80000.0,Decatur GA
+80000.0,"Daytona Beach, FL, USA"
+80000.0,"Cypress, California, USA"
+80000.0,"Columbia, Maryland, United States"
+80000.0,"Clayton, MO US"
+80000.0,Chester county Pennsylvania
+80000.0,"Chareston, SC 29412"
+80000.0,"Canton, Illinois, USA"
+80000.0,Canada-small city
+80000.0,Berlin/NJ/USA
+80000.0,"Baltimore/Washington,DC"
+80000.0,"BK, NY, USA"
+80000.0,"Austin, MN USA"
+80000.0,Aspen/Colorado/United States
+80000.0,Anhorage/Alaska/USA
+79985.0666666667,Omaha/Nebraska/USA
+79950.0,Rosemont/Illinois/USA
+79911.1111111111,Rockford / IL / USA
+79880.6129032258,Colorado
+79666.6666666667,South Dakota
+79660.0,"Chico, CA USA"
+79650.0,Cologne germany
+79500.0,"Pell City, Al USA"
+79500.0,"Mobile, AL"
+79500.0,"Hebron, KY, USA"
+79439.4285714286,"Lehi, Utah, USA"
+79404.0,"Juneau, AK USA"
+79270.0,"Tempe, AZ, USA"
+79200.0,"Canada, mid-sized city"
+79060.0,Ulm / BW / Germany
+79013.3333333333,Parramatta New South Wales Australia
+79000.0,west allis/wi/usa
+79000.0,Longview/WA/United States
+79000.0,Dedham Massachusetts USA
+79000.0,Altadena/California/USA
+78994.1842105263,"Huntsville, Alabama, USA"
+78850.8333333333,"SF, California"
+78750.0,"Greene, Iowa, USA"
+78666.6666666667,"Saratoga Springs, NY, USA"
+78640.0,"Waterloo, ON, Canada"
+78561.1666666667,"Charlottesville, VA USA"
+78514.2857142857,Chicago Suburbs
+78500.0,"Sahuarita, AZ / US"
+78482.75,"Billings, MT USA"
+78470.0,Lithuania
+78400.0,"Rockaway, NJ, USA"
+78333.3333333333,"West Orange, NJ, USA"
+78081.8701694915,"Sydney, NSW, Australia"
+78000.0,Yonkers/ NY/ USA
+78000.0,Traveling
+78000.0,St paul
+78000.0,"Omaha, Nebtraks, USA"
+78000.0,Oak Brook/IL/USA
+78000.0,North Dakota
+78000.0,"Mentor, Ohio, USA"
+78000.0,"Hollis, NH, USA"
+78000.0,"Cherry Hill, NJ, USA"
+78000.0,"Aurora, CO, US"
+78000.0,Altoona/PA/USA
+77900.824,Netherlands
+77865.0,Vermont
+77857.1428571429,"Concord, NH USA"
+77500.0,"Jupiter, FL, USA"
+77379.0,Mt View Ca USa
+77316.5,"Malibu, CA USA"
+77260.0,"Bar Harbor, Maine, USA"
+77250.0,"Philadelphia suburbs, PA, USA"
+77230.0,"St. Augustine, FL"
+77131.3636363636,"Spokane, WA, USA"
+77120.0,"Waterford, MI, USA"
+77000.0,"Southwestern Ohio, USA"
+77000.0,"North Liberty, Iowa"
+77000.0,Latin America (expat)
+76875.0,"Alabama, USA"
+76800.0,"Bossier City, LA"
+76700.0,"Nuremberg, Germany"
+76700.0,Espoo/Finland
+76650.0,"Newport, RI, United States"
+76625.0,"AZ,USA"
+76500.0,Carmel/Indiana/United States
+76250.0,"Vista, CA USA"
+76060.1538461538,"Buffalo, NY, USA"
+76024.8076923077,"Louisville, KY"
+76000.0,"metro Phoenix, AZ"
+76000.0,"West BendWI, USA"
+76000.0,"Sanford, Florida, USA"
+76000.0,Ponte Vedra Beach/Florida/USA
+76000.0,"Pasadena, CA, United States"
+76000.0,"Near Boston, Massachusetts"
+76000.0,Mineola/NY/USA
+76000.0,Dearborn
+76000.0,Cananda
+76000.0,"Bay Springs, MS, USA"
+75950.0,Stratford Ontario Canada
+75916.6666666667,"Lansdale, PA USA"
+75809.5238095238,"Asheville, NC, USA"
+75700.0,"Twin Falls, ID"
+75609.9473684211,"Des Moines, IA"
+75594.7375,Belgium
+75500.0,"Waukesha, WI"
+75500.0,"Dhaka, Bangladesh"
+75480.0,Canberra
+75400.0,"Lodi, NJ USA"
+75339.2857142857,"Omaha, NE, USA"
+75268.5714285714,"Charlotte, North Carolina, USA"
+75258.3333333333,"Fresno, CA"
+75200.0,SK/Canada
+75190.0,"Holyoke, Massachusetts, USA"
+75155.5555555556,Calgary
+75127.9411764706,"Silver Spring, MD, USA"
+75105.0,Chertsey/Surrey/ United Kingdom
+75016.125,"Lincoln, NE"
+75009.0,Lakewood/Ohio/USA
+75008.4285714286,"Chicago, IL United States"
+75000.0,"job is remote, live in Boston"
+75000.0,"Walker, MN"
+75000.0,Wakefield/MA/USA
+75000.0,"Vernal, UT, USA"
+75000.0,Upland/california/usa
+75000.0,"Toledo, Oregon, United States"
+75000.0,"Sturtevant, Wisconsin, US"
+75000.0,State College
+75000.0,"Royal Oak, MI"
+75000.0,"Red Lodge, MT, USA"
+75000.0,North Wales/PA/USA
+75000.0,Newark Ohio USA
+75000.0,"Naples, Italy"
+75000.0,"NJ, United States"
+75000.0,My kisco ny
+75000.0,Milpitas/CA/United States
+75000.0,"Milpitas, CA, US"
+75000.0,Lagrange/IL/USA
+75000.0,"Jerome, ID"
+75000.0,"Jax, FL but company is in Dallas"
+75000.0,Hurley/WI/USA
+75000.0,"Home based, travel to assignments as needed"
+75000.0,Glastonbury ct usa
+75000.0,"Ewing, NJ, USA"
+75000.0,Estero Florida USA
+75000.0,Dixon/Illinois/United States
+75000.0,"Decatur, Alabama/USA"
+75000.0,"DeKalb, IL USA"
+75000.0,Clarkston Wa USA
+75000.0,Claremont NH USA
+75000.0,"Bourssard, Louisiana, USA"
+75000.0,"Bourne, Massachusetts, USA"
+75000.0,"Batavia, ny"
+74977.4166666667,Brisbane
+74880.0,"Malmö, Sweden"
+74800.0,"Bronx, NY"
+74779.4117647059,Denver
+74768.1818181818,"Worcester, MA, USA"
+74750.0,"Tacoma, Washington, USA"
+74740.0,Southern USA
+74677.6666666667,"Cedar Rapids, IA, USA"
+74665.0,"Enterprise, Alabama, USA"
+74619.0476190476,"Syracuse, NY, USA"
+74600.0,"Davis, California USA"
+74577.5,"Brighton, East Sussex, UK"
+74500.0,Rural New York state
+74500.0,Rolling Meadows IL USA
+74500.0,"Remote, USA"
+74500.0,Kingsport/TN/USA
+74500.0,"Houston ,TT"
+74500.0,"Hilton, NY"
+74500.0,"Athens, Alabama, USA"
+74500.0,"Albany New York, USA"
+74500.0,*international postings that change
+74452.2222222222,"Wichita, KS, USA"
+74400.0,"North of Toronto, Ontario, Canada"
+74380.0,"Martinsburg, WV"
+74168.8888888889,IL/USA
+74000.0,"Tracy, CA, USA"
+74000.0,"Temecula, CA, USA"
+74000.0,Redmond Oregon USA
+74000.0,"Port Huron, MI, USA"
+74000.0,Pontiac Michigan US
+74000.0,Perris California
+74000.0,"Lehigh Valley, PA, USA"
+74000.0,"Lees Summit, MO USA"
+74000.0,Kansas City area/KS/USA
+74000.0,"Bloomfield Hills, MI"
+74000.0,Baytown TX
+74000.0,Adelaide
+73980.0,"Syracuse, NY"
+73933.3333333333,"Newark, Delaware, USA"
+73818.0,"Delray Beach, FL"
+73800.0,"Salem, OR"
+73766.6666666667,Rhode Island
+73750.0,"DC area, USA"
+73666.6666666667,"Bellmore, NY, USA"
+73511.6666666667,"Kennesaw, GA, USA"
+73500.0,"Santa Maria, CA"
+73500.0,"Paul,Idaho"
+73416.6666666667,"Watertown, MA, USA"
+73397.0,Green Bay/WI/USA
+73375.7647058823,"Fort Wayne, IN, USA"
+73284.0,"Grand island, NY, USA"
+73242.5,Copenhagen
+73198.5,"San Rafael, CA USA"
+73166.6666666667,"Oshkosh, WI"
+73125.0,"Montgomery, AL USA"
+73000.0,Yuma Arizona
+73000.0,Southeast Iowa
+73000.0,"South Dennis, MA, USA"
+73000.0,"Muscatine, IA, USA"
+73000.0,"Albemarle, NC"
+73000.0,"Albany, GA"
+72981.3333333333,"Albany, Oregon, United States"
+72940.8571428571,"Munich, Germany"
+72904.3333333333,"Vienna, Austria"
+72807.6923076923,Idaho
+72666.6666666667,"Staten Island, New York, America"
+72600.0,"Salt Lake, UT USA"
+72600.0,"New London, CT, USA"
+72573.0,"Topeka, KS, USA"
+72550.0,"McMinnville, TN USA"
+72533.3333333333,"Kalamazoo, MI, USA"
+72502.3,"Toronto, Canada"
+72500.0,TINLEY PARK/Illinois/US
+72500.0,Marietta/Georgia/United States
+72500.0,Chester/PA/USA
+72500.0,"Allendale, mi usa"
+72464.2857142857,"Minnesota, USA"
+72400.0,"Fresno, California"
+72333.3333333333,Cary North Carolina USA
+72318.3658536585,"Little Rock, Arkansas, USA"
+72147.3090909091,"Canberra, ACT, Australia"
+72100.0,"West Hollywood, CA"
+72082.1428571429,"NYC, New York, USA"
+72000.0,"Woodbury, MN, USA"
+72000.0,White Lake/MI/USA
+72000.0,Sunrise FL 33325
+72000.0,Rural/California/USA
+72000.0,"Raleigh, NC United States"
+72000.0,"Quad Cities, Iowa, USA"
+72000.0,"Polson, MT, USA"
+72000.0,"Ottumwa, IA"
+72000.0,"Olympia, WA"
+72000.0,NYC suburbs/NY/USA
+72000.0,"Mississauga, ON, Canada"
+72000.0,"Mesa, AZ, United States"
+72000.0,Lima/Ohio/US
+72000.0,"Leominster, MA"
+72000.0,"Laramie, WY, USA"
+72000.0,Kansas/Kansas City/USA
+72000.0,"Estevan, Saskatchewan, Canada"
+72000.0,Davis CA
+72000.0,Casper/ WY/ USA
+72000.0,"Brantford, Ontario, Canada"
+72000.0,"Arvada, CO"
+71980.0,"Munich, Bavaria, Germany"
+71980.0,"Aachen, Northrhine westphalia, Germany"
+71909.0,Piscataway/NJ
+71866.6666666667,"Hamilton, NJ, USA"
+71836.8,"Hayward, CA"
+71760.0,"Greater Chicago Area, IL, USA"
+71744.5263157895,"Buffalo, NY"
+71712.7153846154,"Amsterdam, Netherlands"
+71655.1333333333,Kansas
+71580.0,"Longview, TX, USA"
+71500.0,"Newton, MA, USA"
+71500.0,Cheyenne/Wyoming/USA
+71500.0,"Amarillo, TX, USA"
+71500.0,"Akron, OH"
+71497.2727272727,"Vancouver, Canada"
+71496.0,New England
+71437.7777777778,Hampton VA
+71400.0,"Florida, but the company is based in Virginia (I work remotely)"
+71337.5,Tempe / arizona / usa
+71333.3333333333,"Oakbrook Terrace, IL USA"
+71325.0,"West Palm Beach, FL, USA"
+71200.0,"Canada, prairies"
+71139.0,Norway
+71095.3333333333,"Twin Cities, MN, USA"
+71010.0,Buffalo NY United States
+71000.0,atl/ga/usa
+71000.0,"West Springfield, MA"
+71000.0,"Southlake, TX"
+71000.0,South FL
+71000.0,"Manhasset,NY"
+71000.0,"Louisiana, USA"
+71000.0,Hudson/MA/USA
+71000.0,"Carbondale Pennsylvania, United states"
+70933.3333333333,Warren Michigan
+70857.1428571429,"Morgantown, WV, USA"
+70850.0,"Lugano, Switzerland"
+70800.0,Dortmund/NRW/Germany
+70777.7777777778,"Wichita, Kansas, USA"
+70700.0,"Plymouth, MN, USA"
+70700.0,Corning NY USA
+70666.6666666667,Southern Maine
+70575.0,"Minnesota, United States"
+70560.0,"East Hartford, CT"
+70500.1071428571,"Wellington, New Zealand"
+70500.0,Suburban Philadelphia
+70441.7230769231,"Calgary, Alberta, Canada"
+70427.5133333333,"Hamburg, Germany"
+70400.0,"Surrey, BC, Canada"
+70400.0,Kennewick/WA/USA
+70400.0,Dorval/Quebec/Canada
+70368.5217391304,Saint Paul/MN/USA
+70360.0,Owensboro Kentucky
+70300.0,"Melboure, Australia"
+70264.5,"Charleston, SC, USA"
+70250.0,"Green Bay, WI"
+70150.0,Utah USA
+70133.3333333333,Central Florida
+70118.15,"Georgia, USA"
+70000.0,"Woodstock, Illinois, USA"
+70000.0,Wausau/Wisconsin/ USA
+70000.0,"Virginia, Minnesota, US"
+70000.0,"Virginia (NoVA), USA"
+70000.0,"Tampa Bay, FL"
+70000.0,Southwest Missouri
+70000.0,South Texas
+70000.0,"Sharon, pa"
+70000.0,Saint Roberts /MO/ USA
+70000.0,Rancho Mirage/California/USA
+70000.0,RDU/ North Carolina/ USA
+70000.0,Pottstown PA
+70000.0,Plaistow/New Hampshire/USA
+70000.0,"Paso Robles, CA"
+70000.0,"Norwich, VT 05055"
+70000.0,"New Yor, New York USA"
+70000.0,Near Chicago
+70000.0,Monroe/NC/USA
+70000.0,"Melboure, FL, USA"
+70000.0,Marysville ohio
+70000.0,Marina del Rey/CA/US
+70000.0,"Major City, Midwest USA"
+70000.0,Mahwah New Jersey USA
+70000.0,"Madison, WI area"
+70000.0,"Lima, Ohio"
+70000.0,Lebanon/Kentucky/US
+70000.0,"Laguna Niguel, CA"
+70000.0,"Kansas, Rural"
+70000.0,Kankakee Illinois
+70000.0,"Hickory, NC"
+70000.0,"Hanover, NH"
+70000.0,"Fort mill, sc"
+70000.0,"Dothan, Al"
+70000.0,"Coventry, RI, USA"
+70000.0,Chehalis Washington USA
+70000.0,"Bonita springs, FL"
+70000.0,Boise/ID/United States
+70000.0,"Beer Sheva, Israel"
+70000.0,Baltimore County/MD/USA
+70000.0,"Abiquiu, NM, USA"
+69820.0,"Augusta, GA, USA"
+69692.1666666667,"Vermont, United States"
+69680.75,"Mahwah, NJ, USA"
+69650.0,Hamilton BDA
+69620.0,Hamburg/Hamburg/Germany
+69522.0685714286,Canada
+69500.0,Massachusetts United States
+69309.4545454545,Corvallis/Oregon/USA
+69280.0,"Rutland, Vermont"
+69137.5,"Weston, FL, USA"
+69120.1111111111,"Renton, WA, USA"
+69100.0,"Raritan, NJ, USA"
+69090.3333333333,"Iowa City, Iowa, USA"
+69032.0,"White River Junction, VT, USA"
+69000.0,New Jersey suburbs
+69000.0,Lawrence ma usa
+69000.0,Kenya
+69000.0,"Bellevue, WA"
+69000.0,Beacon/NY/USA
+68995.5,"Newark, DE"
+68952.0,"Berkeley, CA"
+68944.4444444444,"Columbus, IN USA"
+68909.92,"Melbourne, Australia"
+68881.3333333333,"Suitland, MD USA"
+68833.3333333333,"Goshen, NY, US"
+68709.0909090909,"Franklin, TN"
+68666.6666666667,Racine WI USA
+68666.6666666667,"Hayward , California"
+68666.6666666667,Eau Claire/WI/USA
+68622.6666666667,Tennessee
+68600.0,Cedar Rapids Iowa
+68530.9090909091,"San Luis Obispo, CA, USA"
+68528.5,"Utrecht, Netherlands"
+68500.0,UK outside of London
+68500.0,"The Triangle, NC"
+68500.0,"Fort Pierce, FL, USA"
+68499.1,"Bangkok, Thailand"
+68487.875,"Greensboro, NC, USA"
+68440.0,"Liege, Belgium"
+68350.0,"Madison, NJ US"
+68300.0,Mesquite TX
+68269.5043478261,"Auckland, New Zealand"
+68000.0,outside metro Atlanta/Georgia/USA
+68000.0,"Wailuku, Hawaii, USA"
+68000.0,"The Colony, TX USA"
+68000.0,Rocklin/CA/USA
+68000.0,"Remote in Columbus, OH but office is Fort Worth, TX"
+68000.0,OR
+68000.0,NY Metro area
+68000.0,"Logan, UT USA"
+68000.0,"Lewiston-Auburn, Maine, USA"
+68000.0,"Downers Grove, IL"
+68000.0,"Cullowhee, NC USA"
+68000.0,"Buies Creek, NC"
+68000.0,Brecksville/Ohio/USA
+68000.0,Abingdon VA USA
+67750.0,"Wellesley, Massachusetts"
+67666.6666666667,"Duluth, MN"
+67464.8,"Ottawa, ON"
+67400.0,Winnipeg
+67375.3846153846,Central Indiana
+67350.0,"Windsor, CT"
+67325.0,"Kentucky, USA"
+67285.7142857143,"Englewood Cliffs, NJ"
+67260.0,"Gelderland, Netherlands"
+67247.2307692308,"Blacksburg, VA, USA"
+67236.4,Ghent / Belgium
+67210.0,"Saskatchewan, Canada"
+67200.0,"Prague, CZ"
+67173.0,Tonawanda/NY/USA
+67103.4533333333,Madrid
+67100.0,"Round Rock, TX"
+67094.7692307692,Oklahoma
+67000.0,"Telecommute to Chevy Chase, MD"
+67000.0,"Seattle, WA USA ( but work remotely for east coast employer)"
+67000.0,"Port Clinton, OH USA"
+67000.0,"Laughlin, NV, USA"
+67000.0,JOPLIN/MO/USA
+67000.0,Central Ohio
+67000.0,Bernardsville/NJ/USA
+66976.0,"Moonachie, NJ"
+66905.25,"Toronto, ON"
+66772.0,Mesa Arizona US
+66745.42,Denmark
+66725.0,"Macon, GA USA"
+66666.6666666667,Moline IL USA
+66666.6666666667,"Leawood, Kansas"
+66650.0,"Palatine, IL USA"
+66600.0,Geelong/Victoria/Australia
+66600.0,"Blenheim, New Zealand"
+66566.245,"Southampton, UK"
+66562.6666666667,Austria
+66560.0,"Snow Lake, MB, Canada"
+66500.0,"VT, USA"
+66342.8571428571,Culpeper/VA/USA
+66320.0,West Chester PA
+66282.5,Georgia
+66250.0,"Philadelphia Region, Pennsylvania, USA"
+66250.0,"Newton, NC USA"
+66230.0,Hamilton
+66150.0,Coralville/Iowa/USA
+66145.8,"Bismarck, ND"
+66135.0,Chicago Metro
+66125.0,Horsham/PA/USA
+66113.3333333333,Towson Maryland USA
+66080.0,Vero Beach/Florida:USA
+66080.0,"Richmond, CA, USA"
+66080.0,"Arnhem, the Netherlands"
+66055.5555555556,Central Illinois
+66000.0,"Three Rivers, CA"
+66000.0,Rosedale/MD/United States
+66000.0,"Fall River, MA, USA"
+66000.0,Croatia
+66000.0,"Coloado, United States"
+66000.0,"Camp Hill, PA, US"
+66000.0,"Bellefonte, PA, USA"
+65970.0,"North Hills, CA, USA"
+65935.0,"Stoughton, MA, USA"
+65926.5945945946,"Alberta, Canada"
+65897.6666666667,Urbana/IL/USA
+65700.0,"St. John's, Newfoundland, Canada"
+65666.6666666667,"Toledo, Ohio"
+65500.0,"Yuma, Arizona, United States"
+65500.0,Florida United States of America
+65490.0,"Helsinki, Finland"
+65453.0,Launceston Tasmania Australia
+65436.9230769231,Auckland
+65300.0,"Emporia, KS, USA"
+65200.0,"Minnetonka, MN, USA"
+65150.0,"Chesapeake, VA"
+65128.92,"The Hague, South Holland, The Netherlands"
+65000.0,Wheeling / Illinois/ usa
+65000.0,Urbana Illinois
+65000.0,Union/Oregon/USA
+65000.0,Timonium/MD/USA
+65000.0,"St pete, FL, USA"
+65000.0,Spokane/WA/United States
+65000.0,Saratoga/WY/USA
+65000.0,"Portage, IN"
+65000.0,Oc California
+65000.0,"Newport News, VA"
+65000.0,"Muskegon, Michigan. USA"
+65000.0,"Mt. Laurel, NJ, US"
+65000.0,MetroWest Boston MA USA
+65000.0,"Meridian, ID"
+65000.0,"Marinette, Wisconsin"
+65000.0,Los Alamitos/CA / USA
+65000.0,Lindon/Utah/U.S.A.
+65000.0,Levittown NY USA
+65000.0,"Lehi, Utah, Utah County"
+65000.0,"Laramie, WY"
+65000.0,La Quinta/CA/USA
+65000.0,Kokomo Indiana USA
+65000.0,Key largo fl
+65000.0,Illinois (not Chicago)
+65000.0,"Hingham, MA, USA"
+65000.0,Henderson/Nevada/US
+65000.0,"Glassboro, New Jersey, USA"
+65000.0,"Gilbert, Arizona, United States"
+65000.0,Cookeville/Tennessee/USA
+65000.0,Carmel/California/United States
+65000.0,"Bozeman, MT"
+65000.0,Anderson SC
+64900.0,"St Julians, Malta"
+64833.3333333333,"SLC, UT"
+64800.0,"Langley, BC, Canada"
+64767.0,"Frankfurt, Germany"
+64736.0,Willimantic ct usa
+64679.5,Western NY
+64500.0,"Spencer, West Virginia"
+64390.0,Guildford UK
+64378.0,Denville NJ USA
+64295.0,"Fort Polk, LA"
+64216.6666666667,"FL, USA"
+64195.0,Adelaide SA Australia
+64000.0,"rural, central Illinois"
+64000.0,Waterloo Iowa USA
+64000.0,RAHWAY NJ
+64000.0,"Pilot Point, Alaska, USA"
+64000.0,"Nanaimo, BC, Canada"
+64000.0,"Mount Vernon Ohio, US"
+64000.0,Monterey County
+64000.0,"Mesquite, Nevada, USA"
+64000.0,"Marietta, GA, USA"
+64000.0,Duarte/CA/USA
+64000.0,"Charlotte-area, North Carolina, USA"
+64000.0,"AB, Canada"
+63950.0,"Johnson City, TN"
+63842.0,Wokingham UK
+63809.0909090909,"King of Prussia, PA"
+63720.0,Cork/Cork/Ireland
+63666.6666666667,"Nebraska, USA"
+63666.6666666667,"Duluth, MN USA"
+63646.6666666667,"Ottawa, ON, Canada"
+63500.0,"Texas, United States"
+63500.0,"Cypress, CA"
+63440.0,Greater Toronto
+63393.3333333333,"Queensland, Australia"
+63362.5,"Leeds, Yorkshire, UK"
+63270.0,"Sydney, New South Wales, Australia"
+63200.0,Saint John New Brunswick
+63200.0,"Nothern British Columbia, Canada"
+63200.0,"Charlottetown, Prince Edward Island, Canada"
+63172.0,"Victoria, British Columbia, Canada"
+63100.0,"Elk Grove, CA"
+63000.0,"outside Boston, MA"
+63000.0,Winnetka IL
+63000.0,"Westland, Michigan USA"
+63000.0,Southwest Louisiana
+63000.0,"Newport, RI"
+63000.0,"Kelowna, BC, Canada"
+63000.0,"Grand Haven, MI"
+63000.0,"Fairmont, WV"
+62938.0,"Hyattsville, MD, USA"
+62900.0,Cairns/ Queensland/Australia
+62880.0,"Mississauga, Ontario, Canada"
+62860.0,"Berkeley, California, USA"
+62800.0,"Shreveport, Louisiana, USA"
+62750.0,"Mississippi, USA"
+62720.0,Biddeford/Maine/USA
+62650.2857142857,Ontario
+62500.0,"NY Metro Area, USA"
+62500.0,"California, MD"
+62500.0,"Auburn, GA, USA"
+62400.0,"York Region, Ontario, Canada"
+62400.0,"Córdoba, Argentina"
+62333.3333333333,"Joliet, IL, USA"
+62323.0,"Olympia m, WA"
+62229.5,Southwest Virginia
+62143.0,"Triangle area, NC, USA"
+62137.6666666667,"Sterling Heights, MI USA"
+62100.0,"SW Washington, USA"
+62079.34,"Whanganui, Manawatu, New Zealand"
+62014.96,Syndey / NSW / Australia
+62000.0,"Palm coast, FL USA"
+62000.0,Newport RI USA
+62000.0,New York Metro Area
+62000.0,"Keyport, WA, USA"
+62000.0,"Kaneohe, HI"
+62000.0,"Henrico, VA, USA"
+62000.0,Clarksville TN USA
+62000.0,Arcata/CA/United States
+61971.2,Bend / Oregon / USA
+61910.0,"Hamden, CT, USA"
+61900.0,"Tennessee, USA"
+61900.0,Melville NY
+61850.0,"Mid Hudson Valley, NY, USA"
+61650.0,"West Midlands, UK"
+61650.0,Sussex
+61650.0,"Marlow, Buckinghamshire, UK"
+61650.0,Greater London area
+61600.0,Suburban Chicago IL USA
+61600.0,Augusta/Maine/USA
+61596.0,"Karlsruhe, Germany"
+61500.0,"Holland, MI"
+61500.0,"Canton, OH"
+61443.8,Spain
+61333.3333333333,"Yakima, WA"
+61330.0,"Montreal, Canada"
+61278.8571428571,"Glendale, AZ"
+61250.0,Western North Carolina
+61250.0,"Auburn, AL USA"
+61118.2857142857,"San Bernardino, CA, USA"
+61076.6666666667,"Missoula, Montana, USA"
+61000.0,TN
+61000.0,MD/DC metro area
+61000.0,"Illinois, near Chicago"
+61000.0,Humble/TX/United States
+61000.0,"Fairfax County Virginia, USA"
+61000.0,"Bemidji, MN, USA"
+60924.0,Tumwater/WA/USA
+60911.25,NSW Australia
+60902.37,"Christchurch, New Zealand"
+60900.0,"Batavia, Ohio"
+60831.6,"Columbia, MO"
+60810.0,Fostoria/Ohio/US
+60780.0,Hannover/lower saxony/Germany
+60770.0,Northeast PA/USA
+60750.0,East Hanover. Nj
+60557.6285714286,The Netherlands
+60500.0,Fort Walton Beach FL US
+60412.6,"Eugene, Oregon, USA"
+60375.0,Northern Illinois
+60320.0,"Superior, CO"
+60280.0,"Strathclyde, Scotland"
+60280.0,"Aberdeen, UK"
+60236.6666666667,"Savannah, GA, USA"
+60223.3793103448,"Tucson, AZ, USA"
+60180.0,Torino / Italy
+60146.0,York/PA/USA
+60125.0,"Stonington, Connecticut, USA"
+60100.0,"Michigan, United States"
+60039.3333333333,"Fayetteville, AR, USA"
+60000.0,"susquehanna, pa, USA"
+60000.0,"near Seattle, Washington, United States"
+60000.0,Union City/CA/USA
+60000.0,Texas (Remote - UT Company)
+60000.0,"Terre Haute, IN, USA"
+60000.0,St.Marys Pa. USA
+60000.0,Sonoma/CA/USA
+60000.0,Sedro Woolley Washington usa
+60000.0,SC/USA
+60000.0,Remote (Texas)
+60000.0,"Pueblo, Colorado"
+60000.0,Pineville/La/USA
+60000.0,"Pacifica, CA, USA"
+60000.0,"North Hollywood, CA, 91311"
+60000.0,Nigeria
+60000.0,New Baltimore/MI/USA
+60000.0,"Near Philadelphia, Pennsylvania, USA"
+60000.0,"Montevideo, Uruguay"
+60000.0,"Meriden, CT"
+60000.0,Lumberton/NJ/United States
+60000.0,Lima/Peru
+60000.0,Largo/MD/USA
+60000.0,"Lake worth, Florida, United states"
+60000.0,"Keene, NH USA"
+60000.0,"Jackson Hole, WY"
+60000.0,"Hermann, MO United States"
+60000.0,Greeley/Colorado/USA
+60000.0,Golden/CO/USA
+60000.0,"Global, currently Bangladesh"
+60000.0,"Geneva, NY"
+60000.0,"Garland, TX, USA"
+60000.0,"Essexville, Michigan, USA"
+60000.0,Dover New Hampshire US
+60000.0,Denville New Jersey
+60000.0,Cote d'Ivoire
+60000.0,Corona
+60000.0,Conshohocken Pa usa
+60000.0,Clearwater FL USA
+60000.0,Chico/California/US
+60000.0,"Cedar City, Ut USA"
+60000.0,Blackshear Ga US
+60000.0,"Baby Area, California, USA"
+60000.0,Austin MN 55912
+60000.0,Auburn NY
+60000.0,APO/AE/United States
+60000.0,APO/AE/USA
+59800.0,"Winter Park, Colorado, USA"
+59732.0,"Nottingham, UK"
+59700.0,Richardson TX
+59675.0,"Kalispell, MT, USA"
+59592.0,"Mason, mi, usa"
+59589.6666666667,Madison wi united states
+59507.3,Champaign/IL/USA
+59500.0,Abilene/TX/USA
+59453.1818181818,"Missouri, USA"
+59375.0,"Yakima, WA, USA"
+59270.6180487805,New Zealand
+59270.0,"Tel Aviv, Israel"
+59200.0,"Toowoomba, Queensland, Australia"
+59200.0,New Zealabd
+59200.0,Melb / vic / Australia
+59100.0,"Elberta, Utah, USA"
+59089.68,"Rotterdam, the Netherlands"
+59000.0,"Visalia, California, United States"
+59000.0,"Villanova, PA, USA"
+59000.0,Rural Michigan
+59000.0,"Regina, SK, Canada"
+59000.0,"Petoskey, MI, USA"
+59000.0,North Dakota United States
+59000.0,"Hickory, NC, United States"
+59000.0,Camarillo CA US
+59000.0,"Bristol, PA"
+59000.0,"Athens, GA"
+58895.83,"Eureka, CA"
+58835.5,Mexico City
+58814.0,Blue Bell/PA/USA
+58600.0,Keene NH
+58500.0,Wenham/ma/usa
+58500.0,Traverse City Michigan usa
+58500.0,Myerstown Pa USA
+58500.0,"Minot, ND"
+58500.0,Minneapolis area
+58396.6666666667,Woodland Hills ca usa
+58363.0,"Pittsboro, North Carolina, USA"
+58333.3333333333,"Bozeman, Montana"
+58243.0,Topeka KS
+58200.0,"Lenexa, KS"
+58200.0,I do not have a permanent location or residence
+58091.6666666667,"Roanoke, VA, USA"
+58000.0,"Suquamish, WA, US"
+58000.0,Sparta Monroe Wisconsin
+58000.0,"South Orange, NJ, USA"
+58000.0,"Smithton, PA, USA"
+58000.0,Saint Paul
+58000.0,Richland Center/WI/USA
+58000.0,"Port Jervis, NY, USA"
+58000.0,Paramus nj usa
+58000.0,"Indian Head, MD USA"
+58000.0,Dulles/VA/United States
+58000.0,"Dubuque, IA, USA"
+58000.0,Crofton/MD/US
+58000.0,"Colton, California USA"
+57800.0,"Detroit Metro Area, Michigan, USA"
+57796.8571428571,"Small Town, NY USA"
+57750.0,Springdale/AR/USA
+57750.0,"Belmont, MA, USA"
+57745.5,"Yorkshire, UK"
+57625.0,"Bend, OR, USA"
+57540.0,"Wales, United Kingdom"
+57536.3636363636,"Spokane, WA"
+57500.0,"small city, Iowa"
+57500.0,Clearfield Utah
+57500.0,"Chicago area, ILLINOIS, USA"
+57496.0,"Vallejo, CA, USA"
+57478.6666666667,Somerville/MA/USA
+57460.0,"Oklahoma, United States"
+57456.3333333333,"Naples, FL"
+57440.44,South Africa
+57410.5166666667,"Old Saybrook, Ct, USA"
+57400.0,"GTA, Ontario, Canada"
+57328.3,"Akron, OH, USA"
+57234.6,"North Andover, MA USA"
+57206.8571428571,Boise Idaho
+57200.0,"Okanogan, WA, USA"
+57166.6666666667,"Riverside, CA"
+57166.6666666667,Brentwood/TN/USA
+57166.6666666667,"Bethlehem, PA"
+57110.0,"Cape Town, South Africa"
+57000.0,"Toledo, OH"
+57000.0,Stateline/Nevada/USA
+57000.0,"South Hadley, MA"
+57000.0,Shanghai/Shanghai/China
+57000.0,"Salinas, CA, USA"
+57000.0,Roselle IL USA
+57000.0,"Phila, PA, USA"
+57000.0,"Pasco, Washington, USA"
+57000.0,"Park City, Utah USA"
+57000.0,"Huntersville, NC"
+57000.0,"Holland, MI United States of America"
+57000.0,"Haverhill, MA United States"
+57000.0,"Decatur, AL"
+57000.0,"Brigham City, UT, USA"
+57000.0,"Aurora, CO"
+57000.0,Atlanta Area
+56996.3636363636,Columbia Missouri USA
+56950.0,VT
+56900.6666666667,"Cardiff, UK"
+56897.25,Oshkosh wi usa
+56868.0,Madera CA USA
+56840.0,Swainsboro ga United states
+56787.0,Toledo/Ohio/United States
+56712.5,Southeast Michigan
+56680.0,Bangor/Maine/USA
+56650.0,"Lynn, MA, USA"
+56640.0,"Leipzig, Germany"
+56640.0,"Bingen, Rheinland-Pfalz, Germany"
+56625.125,"Akron, Ohio"
+56615.0,Johannesburg
+56570.75,"Oregon, United States"
+56506.6666666667,"Redding, CA USA"
+56500.0,Willoughby Ohio USA
+56500.0,Tuscaloosa AL USA
+56500.0,"St. Louis, MO, United States"
+56500.0,"Merrillville, IN, USA"
+56500.0,"Madison, Connecticut, United States"
+56500.0,"East Randolph, VT, US"
+56500.0,"Denver area, Colorado"
+56217.6666666667,"Victoria, BC, Canada"
+56217.5,"Missoula, MT, USA"
+56170.0,"West Sussex, UK"
+56160.0,"Stockholm, Stockholms län, Sweden"
+56125.0,"San Angelo, Texas"
+56000.0,honesdale pa USA
+56000.0,Yukon territory
+56000.0,"Seneca Falls, NY, USA"
+56000.0,Salem Indiana us
+56000.0,"Pewaukee, WI, USA"
+56000.0,"Lambertville, NJ, USA"
+56000.0,"Greeley, CO, USA"
+56000.0,Centuria/WI/USA
+56000.0,"Buena park, CA"
+56000.0,Bethehem/PA/USA
+56000.0,Bethany/Missouri/United States
+56000.0,"Avon, Indiana"
+56000.0,"Anoka, Minnesota, USA"
+55800.0,Ossining/NY/USA
+55755.8333333333,"Fargo, ND, USA"
+55688.8,"Salem, OR, USA"
+55666.6666666667,Rural PA USA
+55666.6666666667,New Albany Indiana USA
+55666.6666666667,"Cedar Park, TX, USA"
+55500.0,"Aurora, Il USA"
+55400.0,Rural Georgia USA
+55390.0,Alberta
+55200.0,"LonvueuLo, Quebec"
+55000.0,monterey park/CA
+55000.0,"Wyoming, USA"
+55000.0,"Woodinville, Washington, USA"
+55000.0,"Vershire, VT"
+55000.0,"Tucker, GA, USA"
+55000.0,"Tri-Cities, WA"
+55000.0,St. Joseph/MI/USA
+55000.0,"Provo, Utah, United States"
+55000.0,"Plain City, OH"
+55000.0,"Pagosa Springs, CO"
+55000.0,"Monmouth county, New Jersey"
+55000.0,"Mokena, IL"
+55000.0,"Laredo, TX, USA"
+55000.0,Galesburg Illinois
+55000.0,Elmwood Park NJ
+55000.0,Dewey beach delaware usa
+55000.0,"Decatur, GA, USA"
+55000.0,Capital city of US state
+55000.0,"Berwyn, PA"
+54950.0,Northern Indiana
+54800.0,Sheffield/South Yorkshire/England
+54800.0,Buckinghamshire/UK
+54800.0,"Bath, Somerset, UK"
+54776.3866666667,"Cork, Ireland"
+54760.0,"QLD, Australia"
+54744.0,"Saskatoon, SK, Canada"
+54738.0,"Piscataway, NJ, USA"
+54660.0,"Fort Hood, TX, USA"
+54623.005,"Berkshire, United Kingdom"
+54600.0,"Odenton, MD, USA"
+54520.5,South Korea
+54500.0,"Wisconsin, United States"
+54500.0,Parsippany NJ
+54500.0,"Irvine, CA, United States"
+54471.0,Maputo/Mozambique
+54457.5,Midlands
+54450.0,"Winnipeg, MB, Canada"
+54317.5,Delaware
+54240.0,"Quebec, Canada"
+54171.4285714286,"Pensacola, FL, USA"
+54121.0,Amery WI USA
+54080.0,"Swiftwater, Pennsylvania, USA"
+54000.0,Work from home
+54000.0,"Tampa Bay area, Florida"
+54000.0,"Spokane Valley, WA,USA"
+54000.0,"San Marcos, CA"
+54000.0,"Roy, UT USA"
+54000.0,"Palatine, IL"
+54000.0,Orange
+54000.0,"Moorpark, ca, usa"
+54000.0,"Malmö, Skåne, Sweden"
+54000.0,"Holyoke, MA, USA"
+54000.0,"Elkhorn, WI, USA"
+54000.0,"Draper, UT, USA"
+54000.0,Deerfield Beach/FL/USA
+54000.0,"Cheyenne, WY, USA"
+54000.0,"Chatsworth GA, United States"
+54000.0,"American South, non-major city"
+53950.0,"Boynton Beach , Florida, USA"
+53632.8,"Lewiston, ME USA"
+53600.0,Mississauga
+53600.0,GTA
+53565.63,South of Wngland
+53500.0,Tempe AZ
+53500.0,Exton Pennsylvania
+53500.0,Edison/New jersey/usa
+53430.0,UK (NW England)
+53270.0,"Corpus Christi, TX, USA"
+53164.4,"Harrisonburg, VA, USA"
+53160.0,Monterey ca usa
+53100.0,Lüneburg
+53100.0,Harderwijk / Netherlands
+53098.5,"Urbana, IL"
+53087.5,"Hampshire, UK"
+53078.0,"Mesa, AZ, USA"
+53048.0,Western Washington
+53000.0,"norwich, ct US"
+53000.0,coachella valley/CA/USA
+53000.0,Temecula Ca
+53000.0,"Stockton, Ca"
+53000.0,Indiana (near Chicago)
+53000.0,"Groves, TX"
+53000.0,"Foothill Rancho, CA"
+53000.0,"Braintree, MA, USA"
+52856.4,Aston Pa USA
+52840.0,Western Australia
+52833.3333333333,"Pittsfield, MA"
+52800.0,"Sarnia, Ontario, Canada"
+52777.6666666667,"Kenosha, WI USA"
+52756.9230769231,Nebraska
+52753.905,"Glasgow, Scotland"
+52700.0,"Lafayette, LA, USA"
+52615.7777777778,Spartanburg/SC/USA
+52603.5,Newington/CT/USA
+52500.0,"Suburbs of Philadelphia, PA, USA"
+52500.0,North Port / Florida / US
+52370.9090909091,"Halifax, Nova Scotia, Canada"
+52200.0,"Barron, WI, USA"
+52024.32,"Regina, Saskatchewan, Canada"
+52000.0,royse city TX
+52000.0,newmarket/ontario/canada
+52000.0,natick
+52000.0,"colorado, united states"
+52000.0,"Weehawken, NJ, USA"
+52000.0,"Waskesiu Lake, Prince Albert National Park, Saskatchewan, Canada"
+52000.0,Urban lower cost of living area of Canada
+52000.0,Secaucus NJ
+52000.0,"San Tan Valley, Az, US"
+52000.0,"Orange City, Iowa United States"
+52000.0,Orange California 92867
+52000.0,"Ocala, Florida US"
+52000.0,Mid Michigan
+52000.0,McAllen Texas
+52000.0,"Marquette, Michigan, USA"
+52000.0,Maplewood/NJ/US
+52000.0,"Lodi, California"
+52000.0,"Largo, Floida USA"
+52000.0,"Jersey City, New Jersey"
+52000.0,Inverness/Florida/Citrus
+52000.0,"Gainesville, Ga, US"
+52000.0,"Faribault, MN USA"
+52000.0,"Elko, Nevada, USA"
+52000.0,Easley/SC/America
+52000.0,Dayton/Oh/Greene
+52000.0,"Christiana, DE USA"
+52000.0,Bethpage/NY/United States
+51925.0,Athens/GA/USA
+51800.0,christchurch
+51800.0,"Rolla, MO, USA"
+51800.0,Qld
+51634.4,Aust
+51500.0,Hickory Corners/Michigan/USA
+51217.5,"Missouri, United States"
+51205.3333333333,Boise / Idaho / United States
+51200.0,"Metro Vancouver, BC, Canada"
+51116.0,"Drexel Hill, PA, USA"
+51000.0,"Willard, Utah"
+51000.0,Southern Ohio
+51000.0,"Saranac Lake, NY, USA"
+51000.0,Salem/Ohio/USA
+51000.0,"Remote job -company Indianapolis, Indiana"
+51000.0,"Oregon, Wisconsin, USA"
+51000.0,"Near Annapolis, MD"
+51000.0,"Loma Linda, CA"
+51000.0,"Hiawatha, KS, USA"
+51000.0,"Danville, VA"
+51000.0,"Cologne, North Rhine-Westphalia, Germany"
+51000.0,"Athens, OH, USA"
+50900.0,Durant/OK/Bryan
+50800.0,"Wantirna, victoria"
+50800.0,"St. Catharines, Ontario, Canada"
+50750.0,"South Dakota, United States"
+50690.0,Wolverhampton UK
+50690.0,"Brighton, England"
+50671.6666666667,"Queens, NY, USA"
+50587.5,Clinton Tennessee United States
+50500.0,"Montana, USA"
+50400.0,"Kitchener, ON, Canada"
+50400.0,Fishers / IN / USA
+50333.3333333333,Scranton pa usa
+50250.0,"Biloxi, MS USA"
+50193.1428571429,"BC, Canada"
+50090.0,"Hammond, Indiana, USA"
+50083.3333333333,"Sherman, TX USA"
+50075.0,"Kingston, Ontario, Canada"
+50005.0,Northern Ireland
+50000.0,turlock/ca/usa
+50000.0,monee IL USA
+50000.0,"Windom, MN, USA"
+50000.0,West Michigan
+50000.0,Waukesha Wisconsin United States
+50000.0,Waukesha WI USA
+50000.0,"Warren, Mi 48089"
+50000.0,Villa Rica/Georgia/USA
+50000.0,"Timonium, MD"
+50000.0,Stone Mountain /GA/USA
+50000.0,Southern CA USA
+50000.0,Seaside/Oregon/USA
+50000.0,San Saba Texas
+50000.0,"Saint Peter, Minnesota, USA"
+50000.0,Rural Northeast Ohio
+50000.0,"Rohnert park, California, USA"
+50000.0,Quincy/IL/USA
+50000.0,"Palm Desert, California, USA"
+50000.0,"Olympia, WA United States"
+50000.0,"Naugatuck, CT, USA"
+50000.0,Mitchell SD USA
+50000.0,"Marion, MA"
+50000.0,"Madison Heights, MI"
+50000.0,"Liberal, Kansas"
+50000.0,"Kenai, Alaska, USA"
+50000.0,Juneau Alaska
+50000.0,Jerusalem israel
+50000.0,Hurst Tx
+50000.0,"Houston, X"
+50000.0,"Holdrege, Nebraska, USA"
+50000.0,"Hawthorne, CA, USA"
+50000.0,Hanover/VA/USA
+50000.0,"Enfield, CT USA"
+50000.0,"Edwardsburg, MI, US"
+50000.0,Eastlake OH USA
+50000.0,"Dodge City, KS USA"
+50000.0,"DeLand, Florida, USA"
+50000.0,Creve coeur/Missouri/USA
+50000.0,"Cranberry Twp, PA USA"
+50000.0,Coon Rapids Iowa USA
+50000.0,Coastal California
+50000.0,"Clay Center, KS, US"
+50000.0,"Chatham, NJ"
+50000.0,"Big Rapids, MI, USA"
+49984.0,Wayne/NE/USA
+49950.0,Tauranga/Bay of Plenty/New Zealand
+49950.0,"Napier, New Zealand"
+49950.0,"Hobart, Tasmania, Australia"
+49920.0,"Algonac, MI, USA"
+49831.4666666667,Milton Keynes
+49822.8333333333,Denton/Texas/usa
+49800.0,"Quebec City, Quebec, Canada"
+49790.0,Brattleboro Vermont United States
+49666.6666666667,North West Georgia USA
+49666.6666666667,"Amherst, MA, USA"
+49600.0,"Windsor, Colorado, USA"
+49600.0,"Golden, B.C., Canada"
+49600.0,"Barrie, Ontario, Canada"
+49500.0,Virtual
+49400.0,"Kalamazoo, MI"
+49334.0,Carthage/IL/USA
+49320.0,"Leatherhead, Surrey, UK"
+49320.0,Channel Islands (UK)
+49317.6470588235,Montreal
+49000.0,"Woodstock, Vermont, USA"
+49000.0,"Miami Beach, FL USA"
+49000.0,"Mead, Colorado USA"
+49000.0,"Elko, NV, US"
+49000.0,"Carson, CA, USA"
+49000.0,"Ashland, KY"
+48750.0,Claremont CA USA
+48666.6666666667,"Mankato, MN, USA"
+48600.0,"Chesapeake, VA, USA"
+48570.0,Oceanside/CA/USA
+48480.0,"Durhan, NC, USA"
+48433.3333333333,"South Dakota, USA"
+48400.0,Metro Atlanta Georgia
+48400.0,"London, ON, Canada"
+48400.0,"Arnold, MD USA"
+48380.0,"Toulouse, France"
+48250.0,"St. Cloud, MN USA"
+48208.0,"Syracuse, New York"
+48166.6666666667,Bristol CT USA
+48133.3333333333,Goshen Indiana US
+48100.0,"Darwin, Australia"
+48066.6666666667,Manitoba
+48000.0,upstate South Carolina
+48000.0,sault ste marie/MI/USA
+48000.0,"Whitewater, WI"
+48000.0,"Union, MO USA"
+48000.0,"Trenton, New Jersey"
+48000.0,Southeast Texas United States
+48000.0,"Sierra Vista, Arizona USA"
+48000.0,Sherwood park AB
+48000.0,Rural Wisconsin
+48000.0,Racine/WI/United States
+48000.0,"RTP, North Carolina, United States"
+48000.0,"ON, Canada"
+48000.0,North Little Rock AR
+48000.0,Merced/California/USA
+48000.0,Latvia
+48000.0,Janesville WI
+48000.0,"Gulfport, MS"
+48000.0,"Crystal City, VA"
+48000.0,"Bladensburg, MD USA"
+48000.0,"Big City, Southwestern US"
+47950.0,"Newport, South Wales"
+47950.0,Derby
+47903.0,"Cumberland, MD"
+47800.0,"South Jordan, Utah, USA"
+47800.0,"Rocky Hill, CT , USA"
+47785.7142857143,Kansas/USA
+47650.0,Laconia NH USA
+47575.0,Berlin
+47500.0,"Whatcom County, WA"
+47500.0,West Valley / Utah / United States
+47500.0,"Newport, KY, USA"
+47500.0,"New Hope, MN"
+47500.0,Maysville KY USA
+47500.0,Kingman Ks usa
+47400.0,"Kyiv, Ukraine"
+47360.0,Waikato
+47360.0,"Gold Coast, Queensland, Australia"
+47320.0,Mendota/IL/USA
+47320.0,"Beloit, WI, USA"
+47200.0,Rotterdam
+47150.5,"Marion, AL, USA"
+47000.0,"Tavares, FL"
+47000.0,"Pacific Grove, CA"
+47000.0,"Ozark, MO"
+47000.0,"Orem, Utah"
+47000.0,"New Bedford, MA, USA"
+47000.0,"Mission, KS USA"
+47000.0,Columbiana Ohio
+47000.0,"Chesterfield, Michigan, United States"
+47000.0,Buffalo/minnesota/usa
+47000.0,"Athens, OH United States"
+47000.0,"Alamance County, NC"
+46800.0,"Alton, IL USA"
+46798.0,"Chambersburg, PA"
+46700.0,"Yaounde, Cameroon"
+46650.0,"Evanston, IL USA"
+46620.0,Melbourne NSW
+46600.0,Metter Georgia USA
+46600.0,"Fitchburg, MA USA"
+46576.0,"DeRidder, Louisiana"
+46533.3333333333,"Rapid City, South Dakota USA"
+46500.0,"Manhattan, KS, USA"
+46500.0,"Grand Ledge, MI, US"
+46500.0,"Ashland, OR, USA"
+46500.0,"Alachua, FL USA"
+46400.0,"STarkville, Mississippi"
+46400.0,Mid-size city/ Southeast/ US
+46400.0,"Job-Gatineau, QC, Canada Me - Ottawa, ON, Canada"
+46300.0,"Westlake, Ohio, USA"
+46147.44,"Lyon, France"
+46125.0,"Southwest Harbor, Maine, USA"
+46123.3333333333,Bristol
+46020.0,"Jena, Germany"
+46005.0,"Holland, MI, USA"
+46000.0,Work in New Mexico
+46000.0,Sandy Springs / GA / USA
+46000.0,"Rural Texas, USA"
+46000.0,"Ogden, UT"
+46000.0,Houston/Missouri/USA
+46000.0,"Hawley, MN USA"
+46000.0,Geogia
+46000.0,Durham bc
+46000.0,Dublin/Ohio/United States
+46000.0,"Clackamas, Oregon United States"
+46000.0,Cheahlis/wa/United States
+46000.0,"Battle Creek, MI"
+45895.0,Cheshire/uk
+45801.0,Live Oak/Florida/United States
+45700.0,"Midland Park, NJ, USA"
+45670.0,"Heathrow, FL"
+45600.0,Fredeiricton/New Brunswick/Canada
+45591.0,Hiroshima/Hiroshima/Japan
+45500.0,"Libertyville, IL USA"
+45500.0,"Hickory, North Carolina"
+45360.0,"Manitoba, Canada"
+45347.0,"Scotland, UK"
+45282.6666666667,Lakewood/CO/USA
+45210.0,"Shrewsbury, England"
+45210.0,"Midlands, England"
+45210.0,Beaconsfield
+45200.0,Collingwood Ontario canada
+45140.0,"Townsville, Qld, Australia"
+45140.0,Tauranga New Zealand
+45000.0,Woodstock Georgia US
+45000.0,"Troy, Michigan"
+45000.0,"Stuart, Florida USA"
+45000.0,Stanley NC Gaston County
+45000.0,South Sudan
+45000.0,"Saratoga, CA USA"
+45000.0,"Rural, Indiana"
+45000.0,"Rockledge, FL, Brevard"
+45000.0,"Reston, ckva"
+45000.0,"Oxnard, CA, 🇺🇸"
+45000.0,Mountain West
+45000.0,Moscow/Idaho/USA
+45000.0,"Milwaukee, WI (United States)"
+45000.0,"Middlebury, Vermont"
+45000.0,Meadville/PA/USA
+45000.0,"McLean, VA (DC area) USA"
+45000.0,Manassad/VA/UnitedStates
+45000.0,"Kaukauna, WI, USA"
+45000.0,Hebron/Indiana/united states
+45000.0,Florence AL
+45000.0,"Clark, New Jersey"
+45000.0,"Carlisle, PA"
+45000.0,"Cape May Court House, NJ, USA"
+45000.0,"Bangalore, India"
+45000.0,"Albany, NY area"
+44867.5,"Nottingham, England"
+44800.0,Quebec
+44800.0,"Burnaby, BC, Canada"
+44750.0,"Skowhegan, Maine, Somerset"
+44733.3333333333,"Covington, LA, USA"
+44533.3333333333,"Guelph, Ontario, Canada"
+44500.0,"Harford County, MD"
+44400.0,Polk County/ Florida/ USA
+44250.0,Portugal
+44027.0,"Waldorf, MD Usa"
+44000.0,tifton/ga/usa
+44000.0,"hemet, california, USA"
+44000.0,"Vineland, NJ USA"
+44000.0,"Rural area, Indiana, USA"
+44000.0,Oakland Park/ Florida/ USA
+44000.0,"Markham, ON, Canada"
+44000.0,"Athens, Tennessee / USA"
+43880.0,"Troy, OH USA"
+43840.0,Isle of Man
+43840.0,British Channel Islands
+43800.0,"Ottumwa, Iowa, USA"
+43724.0,"New Ulm, Minnesota"
+43587.804,"Peterborough, Cambridgeshire, UK"
+43500.0,"Woodstock, IL 60098"
+43500.0,MA/RI Border
+43500.0,Des Plaines/IL/USA
+43500.0,Davie nc
+43319.0,"Cumming, Georgia, USA"
+43300.0,Phnom Penh Cambodia
+43200.0,brampton ontario canada
+43200.0,"Tualatin, OR, USA"
+43200.0,Miami/Oklahoma/USA
+43064.0,Pueblo/co/usa
+43000.0,Lynden/Washington/USA
+43000.0,"Largo, FL"
+43000.0,Deatsville/Alabama/USA
+43000.0,"Carmel, IN USA"
+43000.0,Baraboo/WI/USA
+42862.32,Brussels
+42848.0,Antarctica
+42800.0,"Hatfield, AR"
+42800.0,"Amman, Jordan"
+42659.0,"Mount Prospect, IL, USA (Chicago suburb)"
+42600.0,"Red Bluff, CA"
+42500.0,"Shillington, PA USA"
+42500.0,"Roslyn Harbor, NY"
+42500.0,Illinois (rural)
+42500.0,"Henniker, NH, USA"
+42500.0,"Federal Way, Wa US"
+42500.0,"Berryville, Arkansas, US"
+42409.6,Fargo/North Dakota/USA
+42380.0,Centerville Ohio USA
+42196.0,Nottingham
+42173.3333333333,"Bartow County, Georgia"
+42110.0,mEMPHIS
+42000.0,"Weslaco, Texas, Hidalgo"
+42000.0,Troy Alabama
+42000.0,"Toms River, NJ"
+42000.0,"Somerset, New Jersey"
+42000.0,"Somers Point, NJ USA"
+42000.0,"Salina, KS, USA"
+42000.0,Renton
+42000.0,Orono/Maine/United States
+42000.0,"Lynn, Ma, United States"
+42000.0,Long Beach/NY/USA
+42000.0,"Largo, MD"
+42000.0,"Farmville, VA"
+42000.0,"Dickson, TN, USA"
+42000.0,"Des Moines, Iowa, United States"
+42000.0,"Derby, KS, United States of America"
+42000.0,"CairoC airo,"
+42000.0,"Brownsville, TX"
+42000.0,"Bronxville, NY, USA"
+42000.0,"Anderson, Indiana, USA"
+42000.0,"Allegan, MI, USA"
+41933.3333333333,Jeffersonville/IN/USA
+41932.0,Libby/MT/USA
+41870.0,"Brunswick, GA, USA"
+41814.5,"Youngstown, OH, US"
+41800.0,"Newfoundland and Labrador, Canada"
+41796.2857142857,"Flagstaff, AZ, USA"
+41737.0,Carrollton Georgia
+41702.8,"Reading, UK"
+41700.0,"Dahlonega, Georgia, USA"
+41600.0,"Menomonie, WI USA"
+41600.0,"Fallon, NV"
+41600.0,"Camarillo, CA United States"
+41600.0,"Aurora, CO, United States"
+41505.0,"Queens, New York, USA"
+41500.0,"Port Orchard, WA USA"
+41500.0,"Platteville, WI"
+41500.0,"Newtown Square,P USA"
+41500.0,"Mesa, Arizona"
+41500.0,"CA, United States"
+41418.0,Antwerp Belgium
+41333.3333333333,"Milford, NH USA"
+41100.0,London/Greater London/UK
+41100.0,"Derby, UK"
+41059.0,"Lake Oswego, OR USA"
+41024.0,"Crestview Hills, KY"
+41000.0,"Roanoke, VA"
+41000.0,"Prescott, Arizona, U.S.A."
+41000.0,"Norman, Oklahoma"
+41000.0,"New York, USA (not NYC)"
+41000.0,"Minot, North Dakota, USA"
+41000.0,"Mikwaukee, WI"
+41000.0,"Madison, AL, USA"
+41000.0,"Cape Cod, MA, USA"
+41000.0,Buffalo/NY/America
+40875.0,High Point NC USA
+40796.2025,"Bristol, United Kingdom"
+40700.0,"Okemos, MI USA"
+40666.6666666667,"Topeka, Kansas, USA"
+40566.6666666667,"Ames, IA"
+40553.8571428571,Evansville/IN/USA
+40540.0,"Suffolk County, NY, USA"
+40449.25,"Leicester, UK"
+40395.82,Scarborough
+40320.0,"Sweden, Europe"
+40200.0,"Medina, Ohio, usa"
+40120.0,Nantes/France
+40000.0,mount olive nc usa
+40000.0,"Shawnee, Oklahoma"
+40000.0,"Saint Augustine, Florida"
+40000.0,Rural Iowa
+40000.0,"Robbins, IL, USA"
+40000.0,"Provo, UT"
+40000.0,"Provincetown MA, USA"
+40000.0,Pikeville Kentucky USA
+40000.0,Paragould ar usa
+40000.0,"Ottawa, ON, CA"
+40000.0,"Olney, MD"
+40000.0,"Norcross,Georgia USA"
+40000.0,MSP/MN/USA
+40000.0,"Lindon , ut"
+40000.0,"Lenox, Iowa USA"
+40000.0,"Lacey, WA, USA"
+40000.0,Kazakhstan
+40000.0,"Jericho, NY, USA"
+40000.0,"Islip, NY"
+40000.0,"Hurricane, West Virginia"
+40000.0,Hsinchu/Taiwan
+40000.0,"Grinnell, IA"
+40000.0,"Great Falls MT, USA"
+40000.0,"Brandenton, Florida, USA"
+40000.0,Belgrade/Montana/USA
+40000.0,Angleton Texas USA
+40000.0,"Algonquin, IL, USA"
+39960.0,Massillon Ohio
+39917.5,"Arcata, CA US"
+39867.0,Leicester
+39848.1625,"Belfast, Northern Ireland"
+39800.0,"Schenectady, NY"
+39760.0,"Kennett Square, PA"
+39730.0,"Bedfordshire, UK"
+39720.0,"Kennesaw, Georgia United States"
+39648.0,"Cuxhaven, Germany"
+39600.0,McDonough Georgia
+39560.0,Grayling/MI/USA
+39520.0,Saratoga CA
+39500.0,"Layton, Utah, United States"
+39500.0,"Duval County, Florida, USA"
+39400.0,Windsor Ontario Canada
+39400.0,"La Vista, NE"
+39285.5,Athens/Georgia/USA
+39250.0,"McAlester, Oklahoma, USA"
+39248.0,"Strasbourg, France"
+39200.0,"Nisku, AB, Canada"
+39160.0,Nova Scotia
+39040.0,"Port Coquitlam, BC, Canada"
+39032.0,"Nova Scotia, Canada"
+39000.0,"Yucaipa, CA"
+39000.0,"Sellersburg, Indiana"
+39000.0,Oviedo florida usa
+39000.0,Oswego NY US
+39000.0,"Orlandonl, Florida"
+39000.0,"Mcpherson Kansas, USA"
+39000.0,"Houston Metro, TX"
+39000.0,"Hampstead, North Carolina, USA"
+38940.0,Finland/Helsinki
+38833.3333333333,SC
+38600.0,Lake Waccamaw/NC/USA
+38500.0,"Stuart, FL, USA"
+38500.0,"Macon, Georgia"
+38447.0,LA
+38360.0,"Kent, United Kingdom"
+38360.0,Dorset UK
+38204.0,Agoura Hills/CA/USA
+38126.0,"Aberdeen Proving Ground, MD, USA"
+38125.0,"Elgin, IL, USA"
+38000.0,hopewell junction/new york/ united states
+38000.0,"Wisconsin Dells, Wi, USA"
+38000.0,"Waukegan, IL, USA"
+38000.0,Scottsdale AZ. United States
+38000.0,STL MO USA
+38000.0,SOUDERTON/PA/USA
+38000.0,SLO/CA/USA
+38000.0,Moncton New Brunswick
+38000.0,"Lake bluff, il, usa"
+38000.0,"Jefderson City, Missouri, USA"
+38000.0,"Delaware, Ohio, USA"
+38000.0,"Clyde, OH, USA"
+38000.0,Bergen County NJ
+37772.0,Minooka/IL/USA
+37600.0,"London, ON"
+37500.0,"Rome City, Indiana, USA"
+37450.0,"Zeeland, MI U.S."
+37446.6666666667,Cheltenham
+37445.75,"Moorhead, MN, USA"
+37440.0,Hebron Kentucky
+37406.0,"Malaga, Spain"
+37390.0,"Lisbon, Portugal"
+37332.5,North East England
+37025.0,"Stockholm, Sweden"
+37000.0,Wollongong/NSW/Australia
+37000.0,St Louis Metro area
+37000.0,Perth Aus
+37000.0,Perth
+37000.0,"Palm Bay, FL US (remotely working for Texas office)"
+37000.0,"Mattoon, IL"
+37000.0,"Macon, GA, United States"
+37000.0,"Hingham, MA"
+37000.0,"Hampton, NH, US"
+37000.0,"Fountain Hills, AZ, USA"
+37000.0,"East Palo Alto, CA, USA"
+37000.0,"Dolgeville, NY USA"
+36990.0,Hemel Hempstead/Hertfordshire/UK
+36875.0,"Madrid, Spain"
+36816.0,Turku/Finland
+36800.0,"Medium Sized city, Ontario, Canada"
+36720.0,Kitchener
+36630.0,Dunedin New Zealand
+36607.14,Eindhoven
+36580.0,Sofia/Bulgaria
+36500.0,Midcoast/Maine/USA
+36400.0,Quebec/quebec/Canada
+36305.0,"Hampshire, England"
+36305.0,"Exeter, UK"
+36300.0,"Colchester, CT, USA"
+36123.6,"Normal, Illinois, USA"
+36000.0,"Red Deer, AB, Canada"
+36000.0,Ft Myers FL
+36000.0,"Elizabeth, NJ, USA"
+36000.0,"Crestwood, IL"
+35620.0,"Street, Somerset, United Kingdom"
+35609.0,Houma / LA / USA
+35500.0,"Juneau, AK"
+35438.35,"Stuttgart, Germany"
+35400.0,"Bologna, Italy"
+35375.0,Brevard County FL
+35360.0,Cape May/New Jersey/USA
+35220.0,Salmon ID USA
+35140.0,"Fort Smith, AR, USA"
+35100.0,"Moscow, Russia"
+35081.4,"zagreb, croatia"
+35026.6666666667,"Tasmania, Australia"
+35010.0,Turkey
+35000.0,"West Coast, United States"
+35000.0,"Very Rural, Texas"
+35000.0,Tegucigalpa /Francisco Morazan/Honduras
+35000.0,"Shawnee, Kansas"
+35000.0,San Juan / Puerto Rico / USA
+35000.0,"Salem, Massachusetts"
+35000.0,"Normal, IL"
+35000.0,"Minster, Ohio, USA"
+35000.0,Lot Angeles/ California/ USA
+35000.0,"Jersey Shore, NJ (north NJ has a more NYC COL; south NJ does not)"
+35000.0,Hicksville/ny/usa
+35000.0,Dunlap tn
+35000.0,"Denison, TX USA"
+35000.0,"Columbia, South Carolina, USA"
+35000.0,"Calais, Maine, United States"
+34978.69,"South Africa, Johannesburg"
+34701.415,"Leeds, West Yorkshire, UK"
+34700.0,Williston/ND/USA
+34505.0,Gothernburg/Sweden
+34400.0,Oskaloosa/Iowa/USA
+34400.0,"Lethbridge, Alberta, Canada"
+34400.0,"Jackson, MI"
+34400.0,Chilliwack
+34320.0,"DC suburb, Maryland"
+34250.0,"Stafford, UK"
+34250.0,Southern Indiana
+34220.0,Bologna/Bologna/Italy
+34200.0,"Iselin, New Jersey, USA"
+34000.0,"Port Saint Lucie, FL"
+34000.0,"North Bay, California, USA"
+34000.0,Hopkinsville
+34000.0,Fargo
+34000.0,Cooperstown/NY/USA
+33925.0,Malta
+33907.5,Cardiff
+33885.3333333333,"Belgrade, Serbia"
+33800.0,"Clemson, SC, United States"
+33600.0,"Dana Point, CA, USA"
+33600.0,"Bangor, ME"
+33499.5,Fayetteville Ga usa
+33390.0,Minot ND USA
+33325.0,"Sanford, ME"
+33280.0,"Belleville, Ontario, Canada"
+33200.0,"Vaughan, Ontario, Canada"
+33113.0,"Bensalem, PA, USA"
+33040.0,Löbau/Germany
+33040.0,"Bucharest, Romania"
+33040.0,"Boulogne-sur-Mer, France"
+33000.0,"corte madera, ca, usa"
+33000.0,Rincon/GA/USA
+33000.0,"Pomona, California, USA"
+33000.0,"Odessa, Texas, United states"
+33000.0,"Northfield, Minnesota, USA"
+33000.0,"Logan, Utah, United States"
+33000.0,"Homer Glen, IL, USA"
+33000.0,"East Bay, CA"
+33000.0,Bullhead City Arizona
+32906.6666666667,"Clifton Park, NY. USA"
+32880.0,"Tunbridge wells, kent, uk"
+32880.0,"Lancashire, UK"
+32880.0,"High Wycombe, UK"
+32880.0,"Cornwall, UK"
+32560.0,Adelaide SA
+32500.0,"Hammond, Louisiana"
+32406.0,"Methuen, MA, USA"
+32232.0,"Omaha, NE, United States"
+32195.0,"Sheffield, United Kingdom"
+32136.0,"Butler, PA USA"
+32105.9,Romania
+32000.0,anon/MS/USA
+32000.0,"Seattle area, WA, USA"
+32000.0,Pompton Lakes/NJ/USA
+32000.0,"Pinehurst, NC 28374"
+32000.0,"Olathe, KS, USA"
+32000.0,Lake Orion/MI/USA
+32000.0,"Cranston, RI USA"
+31900.0,"Kirksville, MO"
+31860.0,"Passau, Germany"
+31823.0,"Spring Hill, FL"
+31678.0,"Hagerstown, MD USA"
+31512.0,Marion indiana
+31510.0,"St Albans, UK"
+31510.0,"Office is London, I work from home"
+31510.0,East England
+31300.0,"Colville, WA, USA"
+31200.0,"greater Springfield, MA, USA metro area"
+31200.0,Puerto Rico
+31200.0,"Port Townsend, WA, USA"
+31000.0,Wickliffe Ohio USA
+31000.0,"Utah, United States"
+31000.0,"Parkersburg, WV Wood"
+31000.0,"Mesa, Az, Maricopa"
+31000.0,"Lancaser, PA USA"
+31000.0,Great lakes Illinois usa
+31000.0,"Eau Claire, WI"
+30962.0,"Aylesbury, Buckinghamshire, UK"
+30825.0,"Surrey, England"
+30650.0,"Kennebunk, ME USA"
+30576.0,"Suzu, Ishikawa Prefecture, Japan"
+30500.0,Coastal Virginia
+30480.0,"Thunder Bay, Ontario, Canada"
+30400.0,Vernon/BC/Canada
+30377.0,Mornington/Victoria/Australia
+30140.0,Croydon
+30000.0,Srlington Heights (Chicago) IL
+30000.0,"South Georgia, USA"
+30000.0,"Reno, NV, United States"
+30000.0,"Prescott, AZ"
+30000.0,Ocala FL
+30000.0,"Oak Harbor, WA, USA"
+30000.0,"North bethesda, MD USA"
+30000.0,"New Ulm, MN, USA"
+30000.0,New Olrenas LA
+30000.0,Longmeadow/MA/01106
+30000.0,"La Vista, NE, USA"
+30000.0,"Jackson,TN"
+30000.0,"Endicott, NY USA"
+30000.0,Eastern Europe
+30000.0,"Belleville, MI, USA"
+30000.0,"Asbury Park, NJ"
+29904.8166666667,"Liverpool, England"
+29764.0,Newton/ia/usa
+29700.0,"Stillwater, Oklahoma, United States"
+29686.0,Dalton/Georgia/USA
+29640.0,"Wichita Falls, TX, USA"
+29600.0,"Red deer, Alberta, Canada"
+29500.0,Killeen/TX/USA
+29320.0,"Johnstown, PA United States"
+29104.0,Carman/Manitoba/Canada
+29000.0,"Norman, OK, United States"
+28896.0,"Huntsville, TX, USA"
+28704.0,"Rural Ontario, Canada"
+28655.0,"Manitowoc, WI, USA"
+28600.0,"Lebano , PA USA"
+28320.0,Ieper/West flanders/ Belgium
+28250.0,"Eastern NC, USA"
+28000.0,"t or c, nm 87901"
+28000.0,"Ypsilanti, MI USA"
+28000.0,"Wheeling, wv"
+28000.0,"Olathe, Kansas, USA"
+28000.0,Brockville/Ontario/Canada
+28000.0,"Berrien County, MI"
+27810.0,Campbellsville/Kentucky/USA
+27500.0,Londonderry/New Hampshire/USA
+27300.0,Yarmouth/MA/USA
+27200.0,Trois-Rivieres/Quebec/Canada
+27140.0,"Evry, France"
+27000.0,"Shawnee, KS, USA"
+27000.0,"Reidsville, NC, USA"
+27000.0,"Pompano Beach, FL"
+27000.0,Mounds View MN
+26880.0,"San Anselmo, California, USA"
+26520.0,Rock Springs/WY/USA
+26400.0,Muskoka Ontario Canada
+26400.0,Cambodia
+26349.4,Budapest/Hungary
+26160.0,"Swift Current, SK, Canada"
+26030.0,Merseyside
+26030.0,"Chester, UK"
+26000.0,"Panama City, FL"
+26000.0,"Lakemoor, Illinois, USA"
+26000.0,"Indiana, United States"
+25700.0,"Alpine, TX, USA"
+25600.0,"Bracebridge ON, Canada"
+25411.9666666667,Czech Republic
+25345.0,Leicester/Leicestershire/UK
+25345.0,Hampshire
+25320.0,Florence/SC/US
+25000.0,closest to Baltimore/MD/US
+25000.0,Palestine
+25000.0,Egg Harbor Twp. NJ US
+24660.0,Norfolk
+24076.0,"Cottonwood, Arizona, USA"
+24000.0,St thomas ontario canada
+24000.0,Rural Minnesota
+24000.0,Online
+24000.0,Houston Area/Texas/USA
+24000.0,"Highland Park, Illinois, USA"
+24000.0,"Gillespie, IL, USA"
+23975.0,"Preston, uk"
+23975.0,"Harwell, Oxfordshire, UK"
+23850.0,"Jonesboro, AR, USA"
+23836.0,Skopje/Macedonia
+23600.0,"Limassol, Cyprus"
+23000.0,"South Texas, USA"
+22800.0,"RI, USA"
+22500.0,"Skokie, IL, USA"
+22303.6,"Cardiff, Wales"
+22000.0,Zambia
+22000.0,Maldonado/Uruguay
+22000.0,Los Cabos Mexico
+22000.0,"Lanett, AL, USA"
+22000.0,La Grande OR
+22000.0,Colombia
+21920.0,"Northallerton, North Yorkshire, England"
+21920.0,"Essex, UK"
+21640.0,"USA, central Virginia"
+21600.0,"Nairobi, Kenya"
+21175.0,Sioux City Iowa United States
+21000.0,Rocklin California USA
+21000.0,"Athens, AL"
+20891.5,"Gothenburg, Nebraska, US"
+20800.0,Dallas Pennsylvania United States
+20500.0,Lake Zurich/IL/USA
+20400.0,"Whistler, BC"
+20000.0,Yorkville/IL/USA
+20000.0,"Windsor, ON, Canada"
+20000.0,"Utila, Honduras"
+20000.0,Rogers ar united states
+20000.0,"Mystic, Connecticut, USA"
+20000.0,Malaysia
+20000.0,Leland MI USA
+20000.0,Clover/SC/USA
+20000.0,"Carlstadt, NJ, USA"
+20000.0,Buena vista/virginia/USA
+19900.0,Dalton/GA/USA
+19647.5,"Middelburg, Eastern Cape, South Africa"
+19500.0,"Three Rivers, MI, United States"
+19000.0,Salina/Kansas/United States
+19000.0,"Pasadena, Tx USA"
+19000.0,"Nampa, Idaho, USA"
+18880.0,Bulgaria
+18850.0,"Ashland, WI USA"
+18720.0,"Adrian, Michigan, USA"
+18500.0,"Childers, Queensland, Australia"
+18221.0,Belfast
+18084.0,"Scunthorpe, North Lincolnshire, England"
+18000.0,"Saint-Petersburg, Russia"
+18000.0,Norwell/MA/USA
+17810.0,"UK, Merseyside."
+17640.0,Azerbaijan
+17563.57785,"Osaka, Japan"
+17400.0,"Perkasie, pa"
+17110.0,"Galicia, Spain"
+17000.0,"Viborg, South Dakota, USA"
+17000.0,"Denali, Alaska, USA"
+16792.0,"Moscow, ID, USA"
+16500.0,Tuscaloosa/Alabama/USA
+15340.0,"Trieste, Italy"
+15000.0,"Richmond, IN, USA"
+15000.0,Pearl farbor
+14840.0,"Lakewood, Wa, USA"
+14400.0,"Minsk, Belarus"
+14160.0,Meyssac Correze France
+13200.0,Jerusalem
+12980.0,"freiburg, germany"
+12460.8,"Riga, Latvia"
+12000.0,"Sudbury, Ontario Canada"
+12000.0,St Francis MN
+12000.0,"South Elgin, il, usa"
+12000.0,Nicaragua
+12000.0,"Bladenboro, NC, USA"
+10960.0,"North Yorkshire, UK"
+10120.0,"Fort St. John, BC, Canada"
+10000.0,NAIROBI KENYA EAST AFRICA
+10000.0,"Eugene, OR, United States"
+10000.0,"Braselton, Ga, USA"
+8400.0,Prarie village/Kansas/United States
+8136.0,Rome
+8111.0,El paso
+8000.0,"Isle of Palms, SC, USA"
+7500.0,"Smithfield Utah, USA"
+7500.0,"Freeport, Illinois, USA"
+7500.0,"Augusta County , VA"
+7400.0,lismore/NSW/Australia
+7000.0,"Thomasville, GA, USA"
+6372.0,"Heidelberg, Germany"
+6000.0,Turkey / İstanbul
+5140.0,Mauritius
+5000.0,Topeka/KS/United States
+5000.0,Muskogee OK
+4800.0,"Danville, PA, USA"
+4620.0,Stockholm
+3840.0,Mission hills Kansas United States
+3000.0,"Putnam, ny, usa"
+2240.0,"Republic, Wa, Usa"
+1250.0,"Bristow, VA"
+1000.0,Compton California
+600.0,Wisconsin Rapids/Wisconsin/USA
+100.0,"Kennett Sq, PA"
+90.0,Dunelle/NJ/United States
+88.0,Cabim John Md
+50.0,São Paulo/ Brazil
+15.276,Earth
+15.0,Topsham/Vermont/USA
+15.0,"Bartlesville, Ok USA"
+0.0,Sequim Washington United States
+0.0,"Gardnerville, NV"

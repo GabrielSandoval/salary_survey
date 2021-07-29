@@ -1,0 +1,8 @@
+The following SQL queries are executed to answer our questions:
+
+-- U0: Which age group contributes the most in the workforce?
+-- SELECT COUNT(AGE), AGE FROM cleaned_data GROUP BY AGE;
+
+-- U1: Which locations and Industries are most lucrative to work in?
+-- SELECT AVG(Salary_USD) AS average_salary,  Industry FROM cleaned_data GROUP BY Industry ORDER BY average_salary DESC;
+-- SELECT AVG(Salary_USD) AS average_salary,  Location FROM cleaned_data GROUP BY Location ORDER BY average_salary DESC;
