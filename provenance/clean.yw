@@ -1,0 +1,41 @@
+@BEGIN Python_FixSemanticErrorsAndDropInvalidRecords
+@IN input_csv_file @URI file:./data/refined_data.csv
+@OUT cleaned_data @URI file:./data/cleaned_data.csv
+@BEGIN read_csv_file
+@IN input_csv_file @URI file:./data/refined_data.csv
+@OUT raw_data
+@END read_csv_file
+@BEGIN rename_columns
+@IN raw_data
+@OUT preprocessing_data @AS renamed_data
+@END rename_columns
+@BEGIN drop_records_with_null_values
+@IN renamed_data
+@OUT raw_data @AS not_null_data
+@END drop_records_with_null_values
+@BEGIN extract_floor_age
+@IN not_null_data
+@OUT not_null_data @AS not_null_data_with_floor_age
+@END extract_floor_age
+@BEGIN extract_floor_experience
+@IN not_null_data_with_floor_age
+@OUT not_null_data @AS not_null_data_with_floor_age_and_experience
+@END extract_floor_experience
+@BEGIN filter_out_invalid_records_based_on_age_and_experience
+@IN not_null_data_with_floor_age_and_experience
+@OUT filtered_data
+@END filter_out_invalid_records_based_on_age_and_experience
+@BEGIN remove_records_with_undetermined_currency
+@IN filtered_data
+@OUT filtered_data @AS filtered_data_without_undetermined_currency
+@END remove_records_with_undetermined_currency
+@BEGIN convert_salaries_to_usd
+@PARAM usd_conversion_rates
+@IN filtered_data_without_undetermined_currency
+@OUT filtered_data @AS usd_salaries_data
+@END convert_salaries_to_usd
+@BEGIN export_clean_data
+@IN usd_salaries_data
+@OUT cleaned_data @URI file:./data/cleaned_data.csv
+@END convert_salaries_to_usd
+@END Python_FixSemanticErrorsAndDropInvalidRecords
