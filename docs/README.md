@@ -1,6 +1,8 @@
 ## Overview
 Data Cleaning project in Python involving OpenRefine and YesWorkflow for Data Provenance
 
+[Final Report](../team63-final-report.pdf)
+
 ### Development Setup
 1. Go to your project directory and download the code
     ```
@@ -25,7 +27,7 @@ Data Cleaning project in Python involving OpenRefine and YesWorkflow for Data Pr
     $ python clean.py
     ```
 
-6. To generate provenance graphs, run the command below. Provenance graphs can be viewed in the [/provenance](https://github.com/GabrielSandoval/salary_survey/tree/master/provenance) folder in this directory.
+6. To generate provenance graphs, run the command below. Provenance graphs can be viewed in the [/provenance_graphs](https://github.com/GabrielSandoval/salary_survey/tree/master/provenance_graphs) folder in this directory.
     ```
     $ bash bin/provenance.sh
     ```
@@ -36,26 +38,26 @@ Data Cleaning project in Python involving OpenRefine and YesWorkflow for Data Pr
 
 1. Combined View
 
-  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_combined_view.png)
+  ![\[view\]](../provenance_graphs/High_Level_Cleaning_Workflow_combined_view.png)
 
 2. Data View
 
-  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_data_view.png)
+  ![\[view\]](../provenance_graphs/High_Level_Cleaning_Workflow_data_view.png)
 
 3. Process View
 
-  ![\[view\]](../provenance/High_Level_Cleaning_Workflow_process_view.png)
+  ![\[view\]](../provenance_graphs/High_Level_Cleaning_Workflow_process_view.png)
 
 #### Salary Cleaning Workflow
 
 1. Combined View
 
-  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_combined_view.png)
+  ![\[view\]](../provenance_graphs/Python_FixSemanticErrorsAndDropInvalidRecords_combined_view.png)
 
 2. Data View
 
-  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_data_view.png)
+  ![\[view\]](../provenance_graphs/Python_FixSemanticErrorsAndDropInvalidRecords_data_view.png)
 
 3. Process View
 
-  ![\[view\]](../provenance/Python_FixSemanticErrorsAndDropInvalidRecords_process_view.png)
+  ![\[view\]](../provenance_graphs/Python_FixSemanticErrorsAndDropInvalidRecords_process_view.png)

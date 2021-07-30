@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS "salary"(
+  "Timestamp" TEXT,
+  "Age" TEXT,
+  "Location" TEXT,
+  "Industry" TEXT,
+  "Job_Title" TEXT,
+  "Experience" TEXT,
+  "Salary_USD" REAL,
+  "Salary_Local" REAL,
+  "Currency" TEXT
+);
